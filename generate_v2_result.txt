@@ -1,0 +1,155 @@
+Named shifts: 117
+Creating: Sunday Day
+  EAST LOT: 22 employees, 171.0 hrs
+  SOUTH LOT: 2 employees, 16.0 hrs
+  WEST LOT: 4 employees, 29.0 hrs
+  BP LOT: 7 employees, 54.0 hrs
+  BREAKER: 1 employees, 8.0 hrs
+  TOTAL: 36 employees, 278.0 hrs
+Creating: Sunday Swing
+  EAST LOT: 14 employees, 104.0 hrs
+  SOUTH LOT: 1 employees, 8.0 hrs
+  WEST LOT: 6 employees, 45.0 hrs
+  BP LOT: 2 employees, 14.0 hrs
+  TOTAL: 23 employees, 171.0 hrs
+Creating: Sunday Graveyard
+  EAST LOT: 7 employees, 48.0 hrs
+  SOUTH LOT: 3 employees, 23.0 hrs
+  WEST LOT: 3 employees, 24.0 hrs
+  BP LOT: 2 employees, 13.0 hrs
+  TOTAL: 15 employees, 108.0 hrs
+Creating: Monday Day
+  EAST LOT: 24 employees, 173.0 hrs
+  SOUTH LOT: 4 employees, 31.0 hrs
+  WEST LOT: 4 employees, 28.0 hrs
+  BP LOT: 5 employees, 35.0 hrs
+  BREAKER: 3 employees, 24.0 hrs
+  TOTAL: 40 employees, 291.0 hrs
+Creating: Monday Swing
+  EAST LOT: 9 employees, 68.0 hrs
+  SOUTH LOT: 4 employees, 28.0 hrs
+  WEST LOT: 5 employees, 38.0 hrs
+  BP LOT: 3 employees, 23.0 hrs
+  BREAKER: 2 employees, 16.0 hrs
+  TOTAL: 23 employees, 173.0 hrs
+Creating: Monday Graveyard
+  EAST LOT: 11 employees, 82.0 hrs
+  SOUTH LOT: 3 employees, 24.0 hrs
+  WEST LOT: 4 employees, 27.0 hrs
+  TOTAL: 18 employees, 133.0 hrs
+Creating: Tuesday Day
+  EAST LOT: 21 employees, 152.0 hrs
+  SOUTH LOT: 3 employees, 24.0 hrs
+  WEST LOT: 7 employees, 54.0 hrs
+  BP LOT: 6 employees, 41.0 hrs
+  BREAKER: 2 employees, 16.0 hrs
+  TOTAL: 39 employees, 287.0 hrs
+Creating: Tuesday Swing
+  EAST LOT: 13 employees, 93.0 hrs
+  SOUTH LOT: 2 employees, 15.0 hrs
+  WEST LOT: 5 employees, 39.0 hrs
+  CBC: 1 employees, 7.0 hrs
+  BP LOT: 3 employees, 20.0 hrs
+  BREAKER: 1 employees, 8.0 hrs
+  TOTAL: 25 employees, 182.0 hrs
+Creating: Tuesday Graveyard
+  EAST LOT: 9 employees, 65.0 hrs
+  SOUTH LOT: 5 employees, 38.0 hrs
+  WEST LOT: 1 employees, 7.0 hrs
+  BP LOT: 2 employees, 15.0 hrs
+  BREAKER: 2 employees, 16.0 hrs
+  TOTAL: 19 employees, 141.0 hrs
+Creating: Wednesday Day
+  EAST LOT: 24 employees, 175.0 hrs
+  SOUTH LOT: 6 employees, 48.0 hrs
+  WEST LOT: 5 employees, 37.0 hrs
+  BP LOT: 4 employees, 29.0 hrs
+  BREAKER: 2 employees, 16.0 hrs
+  TOTAL: 41 employees, 305.0 hrs
+Creating: Wednesday Swing
+  EAST LOT: 14 employees, 102.0 hrs
+  SOUTH LOT: 2 employees, 14.0 hrs
+  WEST LOT: 5 employees, 36.0 hrs
+  BP LOT: 3 employees, 21.0 hrs
+  BREAKER: 1 employees, 7.0 hrs
+  TOTAL: 25 employees, 180.0 hrs
+Creating: Wednesday Graveyard
+  EAST LOT: 9 employees, 70.0 hrs
+  SOUTH LOT: 3 employees, 24.0 hrs
+  WEST LOT: 4 employees, 22.0 hrs
+  BP LOT: 1 employees, 7.0 hrs
+  BREAKER: 1 employees, 8.0 hrs
+  TOTAL: 18 employees, 131.0 hrs
+Creating: Thursday Day
+  EAST LOT: 24 employees, 178.0 hrs
+  SOUTH LOT: 6 employees, 45.0 hrs
+  WEST LOT: 2 employees, 15.0 hrs
+  BP LOT: 6 employees, 42.0 hrs
+  BREAKER: 1 employees, 8.0 hrs
+  TOTAL: 39 employees, 288.0 hrs
+Creating: Thursday Swing
+  EAST LOT: 13 employees, 101.0 hrs
+  SOUTH LOT: 4 employees, 27.0 hrs
+  WEST LOT: 3 employees, 22.0 hrs
+  BP LOT: 3 employees, 20.0 hrs
+  BREAKER: 1 employees, 6.0 hrs
+  TOTAL: 24 employees, 176.0 hrs
+Creating: Thursday Graveyard
+  EAST LOT: 6 employees, 48.0 hrs
+  SOUTH LOT: 3 employees, 24.0 hrs
+  WEST LOT: 5 employees, 30.0 hrs
+  BP LOT: 1 employees, 8.0 hrs
+  BREAKER: 2 employees, 15.0 hrs
+  TOTAL: 17 employees, 125.0 hrs
+Creating: Friday Day
+  EAST LOT: 19 employees, 139.0 hrs
+  SOUTH LOT: 1 employees, 8.0 hrs
+  WEST LOT: 6 employees, 45.0 hrs
+  BP LOT: 7 employees, 52.0 hrs
+  BREAKER: 2 employees, 16.0 hrs
+  TOTAL: 35 employees, 260.0 hrs
+Creating: Friday Swing
+  EAST LOT: 17 employees, 126.0 hrs
+  SOUTH LOT: 2 employees, 15.0 hrs
+  WEST LOT: 2 employees, 16.0 hrs
+  BP LOT: 3 employees, 21.0 hrs
+  BREAKER: 1 employees, 6.0 hrs
+  TOTAL: 25 employees, 184.0 hrs
+Creating: Friday Graveyard
+  EAST LOT: 8 employees, 57.0 hrs
+  SOUTH LOT: 2 employees, 16.0 hrs
+  WEST LOT: 2 employees, 15.0 hrs
+  BP LOT: 2 employees, 15.0 hrs
+  BREAKER: 2 employees, 15.0 hrs
+  TOTAL: 16 employees, 118.0 hrs
+Creating: Saturday Day
+  EAST LOT: 23 employees, 179.0 hrs
+  SOUTH LOT: 2 employees, 15.0 hrs
+  WEST LOT: 4 employees, 29.0 hrs
+  BP LOT: 6 employees, 43.0 hrs
+  BREAKER: 1 employees, 8.0 hrs
+  TOTAL: 36 employees, 274.0 hrs
+Creating: Saturday Swing
+  EAST LOT: 13 employees, 98.0 hrs
+  SOUTH LOT: 1 employees, 8.0 hrs
+  WEST LOT: 7 employees, 51.0 hrs
+  BP LOT: 1 employees, 8.0 hrs
+  TOTAL: 22 employees, 165.0 hrs
+Creating: Saturday Graveyard
+  EAST LOT: 9 employees, 66.0 hrs
+  SOUTH LOT: 4 employees, 28.0 hrs
+  WEST LOT: 2 employees, 16.0 hrs
+  TOTAL: 15 employees, 110.0 hrs
+Traceback (most recent call last):
+  File "C:\Users\rojorda\Downloads\VS Code\V\generate_excel_v2.py", line 473, in <module>
+    wb.save(output_path)
+    ~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\rojorda\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\openpyxl\workbook\workbook.py", line 386, in save
+    save_workbook(self, filename)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\rojorda\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\openpyxl\writer\excel.py", line 291, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "C:\Users\rojorda\AppData\Local\Python\pythoncore-3.14-64\Lib\zipfile\__init__.py", line 1453, in __init__
+    self.fp = io.open(file, filemode)
+              ~~~~~~~^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'Master Daily Schedule 2026.xlsx'

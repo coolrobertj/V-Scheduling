@@ -1,0 +1,129 @@
+Consider using the pymupdf_layout package for a greatly improved page layout analysis.
+Total shifts: 146
+
+=== LOT DISTRIBUTION PER DAY ===
+
+Sun: (total working: 100)
+  BP LOT: 12
+  BREAKER: 5
+  EAST LOT: 58
+  SOUTH LOT: 12
+  WEST LOT: 13
+
+Mon: (total working: 95)
+  BP LOT: 10
+  BREAKER: 6
+  EAST LOT: 49
+  SOUTH LOT: 14
+  WEST LOT: 16
+
+Tue: (total working: 95)
+  BP LOT: 11
+  BREAKER: 5
+  CBC: 1
+  EAST LOT: 55
+  SOUTH LOT: 10
+  WEST LOT: 13
+
+Wed: (total working: 98)
+  BP LOT: 9
+  BREAKER: 7
+  EAST LOT: 53
+  SOUTH LOT: 15
+  WEST LOT: 14
+
+Thur: (total working: 98)
+  BP LOT: 13
+  BREAKER: 7
+  EAST LOT: 52
+  SOUTH LOT: 15
+  WEST LOT: 11
+
+Fri: (total working: 98)
+  BP LOT: 16
+  BREAKER: 7
+  CBC: 1
+  EAST LOT: 54
+  SOUTH LOT: 7
+  WEST LOT: 13
+
+Sat: (total working: 99)
+  BP LOT: 13
+  BREAKER: 3
+  EAST LOT: 56
+  SOUTH LOT: 12
+  WEST LOT: 15
+
+=== SAMPLE SHIFTS ===
+
+Shift 1: Bush, Shayland
+  Sun: 0000-0830 (8hrs) -> EAST LOT
+  Mon: 0000-0830 (8hrs) -> BREAKER
+  Tue: 0000-0830 (8hrs) -> BREAKER
+  Wed: OFF
+  Thur: OFF
+  Fri: 0000-0830 (8hrs) -> BREAKER
+  Sat: 0000-0830 (8hrs) -> EAST LOT
+
+Shift 2: Wissar, Jacob
+  Sun: --
+  Mon: --
+  Tue: --
+  Wed: 00:00-0830 (8hrs) -> EAST LOT
+  Thur: 00:00-08:30 (8hrs) -> EAST LOT
+  Fri: 0100-0930 (8hrs) -> EAST LOT
+  Sat: 0100-0930 (8hrs) -> EAST LOT
+
+Shift 3: Quarles, Raymond
+  Sun: 0100-0930 (8hrs) -> EAST LOT
+  Mon: 0100-0930 (8hrs) -> EAST LOT
+  Tue: 0100-090 (8hrs) -> EAST LOT
+  Wed: 0100-0930 (8hrs) -> EAST LOT
+  Thur: 0100-0930 (8hrs) -> EAST LOT
+  Fri: OFF
+  Sat: OFF
+
+Shift 4: Goodwin, Andre
+  Sun: --
+  Mon: 0200-0830 (6hrs) -> EAST LOT
+  Tue: 0200-0830 (6hrs) -> EAST LOT
+  Wed: 0200-0830 (6hrs) -> EAST LOT
+  Thur: 0200-0830 (6hrs) -> EAST LOT
+  Fri: 0200-1030 (8hrs) -> EAST LOT
+  Sat: --
+
+Shift 5: Skinner, Talieya
+  Sun: 0200-1030 (8hrs) -> EAST LOT
+  Mon: 0300-1130 (8hrs) -> EAST LOT
+  Tue: 0300-1130 (8hrs) -> EAST LOT
+  Wed: --
+  Thur: --
+  Fri: --
+  Sat: 0200-1030 (8hrs) -> EAST LOT
+
+Shift 6: Moore, Gwendolyn
+  Sun: 0300-1130 (8hrs) -> EAST LOT
+  Mon: OFF
+  Tue: OFF
+  Wed: 0300-1130 (8hrs) -> EAST LOT
+  Thur: 0300-1130 (8hrs) -> EAST LOT
+  Fri: 0300-1130 (8hrs) -> EAST LOT
+  Sat: 0300-1130 (8hrs) -> EAST LOT
+
+Shift 7: 
+  Sun: 0400-1130 (7hrs) -> EAST LOT
+  Mon: 0400-1030 (6hrs) -> EAST LOT
+  Tue: 0400-1030 (6hrs) -> EAST LOT
+  Wed: --
+  Thur: --
+  Fri: 0400-1030 (6hrs) -> EAST LOT
+  Sat: 0400-1130 (7hrs) -> EAST LOT
+
+Shift 8: Osorio, Erik
+  Sun: 0500-1330 (8hrs) -> EAST LOT
+  Mon: --
+  Tue: --
+  Wed: 0400-1230 (8hrs) -> EAST LOT
+  Thur: 0400-1230 (8hrs) -> EAST LOT
+  Fri: OFF
+  Sat: 0500-1330 (8hrs) -> EAST LOT

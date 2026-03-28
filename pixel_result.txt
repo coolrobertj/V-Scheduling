@@ -1,0 +1,227 @@
+Consider using the pymupdf_layout package for a greatly improved page layout analysis.
+Total shifts extracted: 146
+
+=== LOT DISTRIBUTION PER DAY ===
+
+Sun:
+  BP LOT: 4
+  BREAKER: 1
+  EAST LOT: 49
+  SOUTH LOT: 6
+  UNKNOWN(0,0,0): 17
+  UNKNOWN(10,10,10): 1
+  UNKNOWN(100,100,100): 1
+  UNKNOWN(107,107,0): 1
+  UNKNOWN(11,11,0): 1
+  UNKNOWN(16,16,16): 1
+  UNKNOWN(2,2,0): 1
+  UNKNOWN(218,232,248): 2
+  UNKNOWN(35,42,44): 1
+  UNKNOWN(40,40,40): 1
+  UNKNOWN(47,56,60): 1
+  UNKNOWN(48,48,0): 1
+  UNKNOWN(68,68,68): 2
+  UNKNOWN(81,81,81): 1
+  WEST LOT: 8
+
+Mon:
+  BP LOT: 4
+  BREAKER: 2
+  EAST LOT: 44
+  SOUTH LOT: 11
+  UNKNOWN(0,0,0): 12
+  UNKNOWN(16,16,16): 1
+  UNKNOWN(2,2,0): 1
+  UNKNOWN(218,232,248): 1
+  UNKNOWN(33,33,33): 1
+  UNKNOWN(38,38,0): 1
+  UNKNOWN(45,45,45): 1
+  UNKNOWN(65,65,65): 1
+  UNKNOWN(86,104,110): 1
+  UNKNOWN(9,9,9): 1
+  WEST LOT: 13
+
+Tue:
+  BP LOT: 5
+  BREAKER: 1
+  CBC: 1
+  EAST LOT: 48
+  SOUTH LOT: 4
+  UNKNOWN(0,0,0): 18
+  UNKNOWN(108,131,139): 1
+  UNKNOWN(115,115,0): 1
+  UNKNOWN(218,232,248): 1
+  UNKNOWN(27,27,27): 1
+  UNKNOWN(29,29,0): 2
+  UNKNOWN(35,42,44): 1
+  UNKNOWN(39,39,39): 1
+  UNKNOWN(4,4,4): 1
+  WEST LOT: 9
+
+Wed:
+  BP LOT: 1
+  BREAKER: 3
+  EAST LOT: 44
+  SOUTH LOT: 7
+  UNKNOWN(0,0,0): 21
+  UNKNOWN(11,11,11): 1
+  UNKNOWN(120,145,154): 1
+  UNKNOWN(16,16,16): 1
+  UNKNOWN(172,172,0): 1
+  UNKNOWN(21,26,27): 1
+  UNKNOWN(218,232,248): 3
+  UNKNOWN(223,223,0): 1
+  UNKNOWN(24,24,24): 1
+  UNKNOWN(4,4,4): 1
+  UNKNOWN(49,59,62): 1
+  UNKNOWN(6,6,6): 1
+  UNKNOWN(98,98,0): 1
+  WEST LOT: 8
+
+Thur:
+  BP LOT: 4
+  BREAKER: 4
+  EAST LOT: 41
+  SOUTH LOT: 11
+  UNKNOWN(0,0,0): 22
+  UNKNOWN(108,131,139): 1
+  UNKNOWN(185,185,0): 1
+  UNKNOWN(20,25,26): 1
+  UNKNOWN(218,232,248): 1
+  UNKNOWN(230,230,0): 1
+  UNKNOWN(80,80,80): 1
+  UNKNOWN(81,81,81): 1
+  UNKNOWN(86,104,110): 1
+  UNKNOWN(9,9,9): 1
+  WEST LOT: 7
+
+Fri:
+  BP LOT: 6
+  BREAKER: 5
+  CBC: 1
+  EAST LOT: 45
+  SOUTH LOT: 5
+  UNKNOWN(0,0,0): 17
+  UNKNOWN(1,1,1): 1
+  UNKNOWN(120,145,154): 1
+  UNKNOWN(13,13,0): 1
+  UNKNOWN(131,131,0): 1
+  UNKNOWN(162,162,162): 1
+  UNKNOWN(190,190,190): 1
+  UNKNOWN(218,232,248): 1
+  UNKNOWN(23,23,23): 1
+  UNKNOWN(35,42,44): 1
+  UNKNOWN(5,7,7): 1
+  UNKNOWN(58,58,58): 1
+  UNKNOWN(81,81,81): 1
+  WEST LOT: 7
+
+Sat:
+  BP LOT: 6
+  BREAKER: 2
+  EAST LOT: 48
+  SOUTH LOT: 7
+  UNKNOWN(0,0,0): 16
+  UNKNOWN(108,131,139): 1
+  UNKNOWN(16,16,16): 1
+  UNKNOWN(218,232,248): 2
+  UNKNOWN(29,29,29): 1
+  UNKNOWN(39,39,39): 1
+  UNKNOWN(46,46,46): 1
+  UNKNOWN(6,6,6): 1
+  UNKNOWN(78,78,78): 1
+  UNKNOWN(81,81,81): 2
+  UNKNOWN(9,9,9): 2
+  WEST LOT: 7
+
+=== SAMPLE SHIFTS ===
+
+Shift 1: Bush, Shayland
+  Sun: 0000-0830 (8hrs) -> WEST LOT
+  Mon: 0000-0830 (8hrs) -> UNKNOWN(0,0,0)
+  Tue: 0000-0830 (8hrs) -> UNKNOWN(115,115,0)
+  Wed: OFF
+  Thur: OFF
+  Fri: 0000-0830 (8hrs) -> BREAKER
+  Sat: 0000-0830 (8hrs) -> EAST LOT
+
+Shift 2: Wissar, Jacob
+  Sun: --
+  Mon: --
+  Tue: --
+  Wed: 00:00-0830 (8hrs) -> EAST LOT
+  Thur: 00:00-08:30 (8hrs) -> UNKNOWN(0,0,0)
+  Fri: 0100-0930 (8hrs) -> UNKNOWN(1,1,1)
+  Sat: 0100-0930 (8hrs) -> EAST LOT
+
+Shift 3: Quarles, Raymond
+  Sun: 0100-0930 (8hrs) -> UNKNOWN(0,0,0)
+  Mon: 0100-0930 (8hrs) -> EAST LOT
+  Tue: 0100-090 (8hrs) -> EAST LOT
+  Wed: 0100-0930 (8hrs) -> UNKNOWN(0,0,0)
+  Thur: 0100-0930 (8hrs) -> EAST LOT
+  Fri: OFF
+  Sat: OFF
+
+Shift 4: Goodwin, Andre
+  Sun: --
+  Mon: 0200-0830 (6hrs) -> UNKNOWN(0,0,0)
+  Tue: 0200-0830 (6hrs) -> UNKNOWN(0,0,0)
+  Wed: 0200-0830 (6hrs) -> EAST LOT
+  Thur: 0200-0830 (6hrs) -> EAST LOT
+  Fri: 0200-1030 (8hrs) -> EAST LOT
+  Sat: --
+
+Shift 5: Skinner, Talieya
+  Sun: 0200-1030 (8hrs) -> EAST LOT
+  Mon: 0300-1130 (8hrs) -> EAST LOT
+  Tue: 0300-1130 (8hrs) -> EAST LOT
+  Wed: --
+  Thur: --
+  Fri: --
+  Sat: 0200-1030 (8hrs) -> EAST LOT
+
+Shift 6: Moore, Gwendolyn
+  Sun: 0300-1130 (8hrs) -> UNKNOWN(0,0,0)
+  Mon: OFF
+  Tue: OFF
+  Wed: 0300-1130 (8hrs) -> UNKNOWN(0,0,0)
+  Thur: 0300-1130 (8hrs) -> UNKNOWN(80,80,80)
+  Fri: 0300-1130 (8hrs) -> EAST LOT
+  Sat: 0300-1130 (8hrs) -> EAST LOT
+
+Shift 7: 
+  Sun: 0400-1130 (7hrs) -> EAST LOT
+  Mon: 0400-1030 (6hrs) -> EAST LOT
+  Tue: 0400-1030 (6hrs) -> EAST LOT
+  Wed: --
+  Thur: --
+  Fri: 0400-1030 (6hrs) -> EAST LOT
+  Sat: 0400-1130 (7hrs) -> WEST LOT
+
+Shift 8: Osorio, Erik
+  Sun: 0500-1330 (8hrs) -> EAST LOT
+  Mon: --
+  Tue: --
+  Wed: 0400-1230 (8hrs) -> EAST LOT
+  Thur: 0400-1230 (8hrs) -> EAST LOT
+  Fri: OFF
+  Sat: 0500-1330 (8hrs) -> EAST LOT
+
+Shift 9: Handy, Veta
+  Sun: OFF
+  Mon: 0500-1130 (6hrs) -> EAST LOT
+  Tue: 0500-1130 (6hrs) -> EAST LOT
+  Wed: 0500-1130 (6hrs) -> EAST LOT
+  Thur: 0500-1230 (7hrs) -> EAST LOT
+  Fri: 0500-1230 (7hrs) -> EAST LOT
+  Sat: OFF
+
+Shift 10: Mills, Hiram
+  Sun: 06:00-1230 (6hrs) -> UNKNOWN(68,68,68)
+  Mon: --
+  Tue: --
+  Wed: 06:00-1330 (7hrs) -> EAST LOT
+  Thur: 06:00-1330 (7hrs) -> EAST LOT
+  Fri: 06:00-1230 (6hrs) -> UNKNOWN(0,0,0)
+  Sat: 06:00-1230 (6hrs) -> EAST LOT

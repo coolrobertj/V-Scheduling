@@ -1,0 +1,8178 @@
+[
+  {
+    "shift": "1",
+    "name": "Bush, Shayland",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "0000-0830",
+        "hrs": "8",
+        "lot": "BREAKER",
+        "start": "0000",
+        "end": "0830"
+      },
+      "Tue": {
+        "time": "0000-0830",
+        "hrs": "8",
+        "lot": "BREAKER",
+        "start": "0000",
+        "end": "0830"
+      },
+      "Wed": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "0000-0830",
+        "hrs": "8",
+        "lot": "BREAKER",
+        "start": "0000",
+        "end": "0830"
+      },
+      "Sat": {
+        "time": "0000-0830",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0000",
+        "end": "0830"
+      },
+      "Sun": {
+        "time": "0000-0830",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0000",
+        "end": "0830"
+      }
+    }
+  },
+  {
+    "shift": "2",
+    "name": "Wissar, Jacob",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "00:00-0830",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0000",
+        "end": "0830"
+      },
+      "Thur": {
+        "time": "00:00-08:30",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0000",
+        "end": "0830"
+      },
+      "Fri": {
+        "time": "0100-0930",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0100",
+        "end": "0930"
+      },
+      "Sat": {
+        "time": "0100-0930",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0100",
+        "end": "0930"
+      },
+      "Sun": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "3",
+    "name": "Quarles, Raymond",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "0100-0930",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0100",
+        "end": "0930"
+      },
+      "Tue": {
+        "time": "0100-090",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0100",
+        "end": "090"
+      },
+      "Wed": {
+        "time": "0100-0930",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0100",
+        "end": "0930"
+      },
+      "Thur": {
+        "time": "0100-0930",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0100",
+        "end": "0930"
+      },
+      "Fri": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "0100-0930",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0100",
+        "end": "0930"
+      }
+    }
+  },
+  {
+    "shift": "4",
+    "name": "Goodwin, Andre",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "0200-0830",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "0200",
+        "end": "0830"
+      },
+      "Tue": {
+        "time": "0200-0830",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "0200",
+        "end": "0830"
+      },
+      "Wed": {
+        "time": "0200-0830",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "0200",
+        "end": "0830"
+      },
+      "Thur": {
+        "time": "0200-0830",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "0200",
+        "end": "0830"
+      },
+      "Fri": {
+        "time": "0200-1030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0200",
+        "end": "1030"
+      },
+      "Sat": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "5",
+    "name": "Skinner, Talieya",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "0300-1130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0300",
+        "end": "1130"
+      },
+      "Tue": {
+        "time": "0300-1130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0300",
+        "end": "1130"
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "0200-1030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0200",
+        "end": "1030"
+      },
+      "Sun": {
+        "time": "0200-1030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0200",
+        "end": "1030"
+      }
+    }
+  },
+  {
+    "shift": "6",
+    "name": "Moore, Gwendolyn",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "0300-1130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0300",
+        "end": "1130"
+      },
+      "Thur": {
+        "time": "0300-1130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0300",
+        "end": "1130"
+      },
+      "Fri": {
+        "time": "0300-1130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0300",
+        "end": "1130"
+      },
+      "Sat": {
+        "time": "0300-1130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0300",
+        "end": "1130"
+      },
+      "Sun": {
+        "time": "0300-1130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0300",
+        "end": "1130"
+      }
+    }
+  },
+  {
+    "shift": "7",
+    "name": "",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "0400-1030",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "0400",
+        "end": "1030"
+      },
+      "Tue": {
+        "time": "0400-1030",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "0400",
+        "end": "1030"
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "0400-1030",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "0400",
+        "end": "1030"
+      },
+      "Sat": {
+        "time": "0400-1130",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0400",
+        "end": "1130"
+      },
+      "Sun": {
+        "time": "0400-1130",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0400",
+        "end": "1130"
+      }
+    }
+  },
+  {
+    "shift": "8",
+    "name": "Osorio, Erik",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "0400-1230",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0400",
+        "end": "1230"
+      },
+      "Thur": {
+        "time": "0400-1230",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0400",
+        "end": "1230"
+      },
+      "Fri": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "0500-1330",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0500",
+        "end": "1330"
+      },
+      "Sun": {
+        "time": "0500-1330",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0500",
+        "end": "1330"
+      }
+    }
+  },
+  {
+    "shift": "9",
+    "name": "Handy, Veta",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "0500-1130",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "0500",
+        "end": "1130"
+      },
+      "Tue": {
+        "time": "0500-1130",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "0500",
+        "end": "1130"
+      },
+      "Wed": {
+        "time": "0500-1130",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "0500",
+        "end": "1130"
+      },
+      "Thur": {
+        "time": "0500-1230",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0500",
+        "end": "1230"
+      },
+      "Fri": {
+        "time": "0500-1230",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0500",
+        "end": "1230"
+      },
+      "Sat": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "10",
+    "name": "Mills, Hiram",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "06:00-1330",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0600",
+        "end": "1330"
+      },
+      "Thur": {
+        "time": "06:00-1330",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0600",
+        "end": "1330"
+      },
+      "Fri": {
+        "time": "06:00-1230",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "0600",
+        "end": "1230"
+      },
+      "Sat": {
+        "time": "06:00-1230",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "0600",
+        "end": "1230"
+      },
+      "Sun": {
+        "time": "06:00-1230",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "0600",
+        "end": "1230"
+      }
+    }
+  },
+  {
+    "shift": "11",
+    "name": "Ramos, Saul",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "06:00-1430",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0600",
+        "end": "1430"
+      },
+      "Tue": {
+        "time": "06:00-1430",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0600",
+        "end": "1430"
+      },
+      "Wed": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "0700-1530",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0700",
+        "end": "1530"
+      },
+      "Sat": {
+        "time": "0700-1530",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0700",
+        "end": "1530"
+      },
+      "Sun": {
+        "time": "0700-1530",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0700",
+        "end": "1530"
+      }
+    }
+  },
+  {
+    "shift": "12",
+    "name": "Velasquez, Carlos",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "0700-1530",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0700",
+        "end": "1530"
+      },
+      "Tue": {
+        "time": "0700-1530",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0700",
+        "end": "1530"
+      },
+      "Wed": {
+        "time": "0700-1530",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0700",
+        "end": "1530"
+      },
+      "Thur": {
+        "time": "0700-1530",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0700",
+        "end": "1530"
+      },
+      "Fri": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "13",
+    "name": "Walker, Larry",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "0800-1530",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0800",
+        "end": "1530"
+      },
+      "Tue": {
+        "time": "0800-1530",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0800",
+        "end": "1530"
+      },
+      "Wed": {
+        "time": "0800-1430",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "0800",
+        "end": "1430"
+      },
+      "Thur": {
+        "time": "0800-1430",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "0800",
+        "end": "1430"
+      },
+      "Fri": {
+        "time": "0800-1430",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "0800",
+        "end": "1430"
+      },
+      "Sat": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "14",
+    "name": "Pawnell, Felicia",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "0900-1730",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0900",
+        "end": "1730"
+      },
+      "Tue": {
+        "time": "0900-1730",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0900",
+        "end": "1730"
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "0800-1630",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0800",
+        "end": "1630"
+      },
+      "Sun": {
+        "time": "0800-1630",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0800",
+        "end": "1630"
+      }
+    }
+  },
+  {
+    "shift": "15",
+    "name": "Davis, Dominique",
+    "wkly_hrs": "35",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "0900-1630",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0900",
+        "end": "1630"
+      },
+      "Thur": {
+        "time": "0900-1630",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0900",
+        "end": "1630"
+      },
+      "Fri": {
+        "time": "0900-1630",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0900",
+        "end": "1630"
+      },
+      "Sat": {
+        "time": "0900-1630",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0900",
+        "end": "1630"
+      },
+      "Sun": {
+        "time": "0900-1630",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0900",
+        "end": "1630"
+      }
+    }
+  },
+  {
+    "shift": "16",
+    "name": "Ramirez, Ruben",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "1000-1830",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1000",
+        "end": "1830"
+      },
+      "Wed": {
+        "time": "1000-1830",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1000",
+        "end": "1830"
+      },
+      "Thur": {
+        "time": "1000-1830",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1000",
+        "end": "1830"
+      },
+      "Fri": {
+        "time": "1000-1830",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1000",
+        "end": "1830"
+      },
+      "Sat": {
+        "time": "1000-1830",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1000",
+        "end": "1830"
+      },
+      "Sun": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "17",
+    "name": "Saenz, Noel",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "1000-1830",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1000",
+        "end": "1830"
+      },
+      "Tue": {
+        "time": "1100-1930",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1100",
+        "end": "1930"
+      },
+      "Wed": {
+        "time": "1100-1930",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1100",
+        "end": "1930"
+      },
+      "Thur": {
+        "time": "1100-1930",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1100",
+        "end": "1930"
+      },
+      "Fri": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "1000-1830",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1000",
+        "end": "1830"
+      }
+    }
+  },
+  {
+    "shift": "18",
+    "name": "Pollard, Raymone",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "1100-1730",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "1100",
+        "end": "1730"
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "1200-2030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1200",
+        "end": "2030"
+      },
+      "Fri": {
+        "time": "1100-1730",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "1100",
+        "end": "1730"
+      },
+      "Sat": {
+        "time": "1100-1730",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "1100",
+        "end": "1730"
+      },
+      "Sun": {
+        "time": "1100-1730",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "1100",
+        "end": "1730"
+      }
+    }
+  },
+  {
+    "shift": "19",
+    "name": "",
+    "wkly_hrs": "33",
+    "days": {
+      "Mon": {
+        "time": "1200-1830",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "1200",
+        "end": "1830"
+      },
+      "Tue": {
+        "time": "1200-1830",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "1200",
+        "end": "1830"
+      },
+      "Wed": {
+        "time": "1200-1930",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1200",
+        "end": "1930"
+      },
+      "Thur": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "1200-1930",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1200",
+        "end": "1930"
+      },
+      "Sun": {
+        "time": "1200-1930",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1200",
+        "end": "1930"
+      }
+    }
+  },
+  {
+    "shift": "20",
+    "name": "Le, Don",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "1300-2130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1300",
+        "end": "2130"
+      },
+      "Tue": {
+        "time": "1300-2130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1300",
+        "end": "2130"
+      },
+      "Wed": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "1200-2030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1200",
+        "end": "2030"
+      },
+      "Sat": {
+        "time": "1300-2130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1300",
+        "end": "2130"
+      },
+      "Sun": {
+        "time": "1300-2130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1300",
+        "end": "2130"
+      }
+    }
+  },
+  {
+    "shift": "21",
+    "name": "Lopez, Daniel",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "1300-2130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1300",
+        "end": "2130"
+      },
+      "Thur": {
+        "time": "1300-2130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1300",
+        "end": "2130"
+      },
+      "Fri": {
+        "time": "1300-2130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1300",
+        "end": "2130"
+      },
+      "Sat": {
+        "time": "1400-2230",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1400",
+        "end": "2230"
+      },
+      "Sun": {
+        "time": "1400-2230",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1400",
+        "end": "2230"
+      }
+    }
+  },
+  {
+    "shift": "22",
+    "name": "Fuller, Kameisha",
+    "wkly_hrs": "34",
+    "days": {
+      "Mon": {
+        "time": "1400-2230",
+        "hrs": "8",
+        "lot": "BREAKER",
+        "start": "1400",
+        "end": "2230"
+      },
+      "Tue": {
+        "time": "1400-2130",
+        "hrs": "7",
+        "lot": "CBC",
+        "start": "1400",
+        "end": "2130"
+      },
+      "Wed": {
+        "time": "1400-2130",
+        "hrs": "7",
+        "lot": "BREAKER",
+        "start": "1400",
+        "end": "2130"
+      },
+      "Thur": {
+        "time": "1400-2030",
+        "hrs": "6",
+        "lot": "BREAKER",
+        "start": "1400",
+        "end": "2030"
+      },
+      "Fri": {
+        "time": "1400-2030",
+        "hrs": "6",
+        "lot": "BREAKER",
+        "start": "1400",
+        "end": "2030"
+      },
+      "Sat": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "23",
+    "name": "De Haro, Carlos",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "1500-2330",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1500",
+        "end": "2330"
+      },
+      "Tue": {
+        "time": "1500-2330",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1500",
+        "end": "2330"
+      },
+      "Wed": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "1500-2330",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1500",
+        "end": "2330"
+      },
+      "Sat": {
+        "time": "1500-2330",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1500",
+        "end": "2330"
+      },
+      "Sun": {
+        "time": "1500-2330",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "1500",
+        "end": "2330"
+      }
+    }
+  },
+  {
+    "shift": "24",
+    "name": "Kieng, Jeffrey",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "1600-0030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1600",
+        "end": "0030"
+      },
+      "Thur": {
+        "time": "1600-0030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1600",
+        "end": "0030"
+      },
+      "Fri": {
+        "time": "1600-0030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1600",
+        "end": "0030"
+      },
+      "Sat": {
+        "time": "1600-0030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1600",
+        "end": "0030"
+      },
+      "Sun": {
+        "time": "1600-0030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1600",
+        "end": "0030"
+      }
+    }
+  },
+  {
+    "shift": "25",
+    "name": "Monroy Romero, Marta",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "1600-0030",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "1600",
+        "end": "0030"
+      },
+      "Tue": {
+        "time": "1600-0030",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "1600",
+        "end": "0030"
+      },
+      "Wed": {
+        "time": "1700-0130",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "1700",
+        "end": "0130"
+      },
+      "Thur": {
+        "time": "1700-0130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1700",
+        "end": "0130"
+      },
+      "Fri": {
+        "time": "1700-0130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1700",
+        "end": "0130"
+      },
+      "Sat": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "26",
+    "name": "Somoza, Jose",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "1700-0130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1700",
+        "end": "0130"
+      },
+      "Tue": {
+        "time": "1700-0130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1700",
+        "end": "0130"
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "1700-0130",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "1700",
+        "end": "0130"
+      },
+      "Sun": {
+        "time": "1700-0130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1700",
+        "end": "0130"
+      }
+    }
+  },
+  {
+    "shift": "27",
+    "name": "Acevedo, Miguel",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "1800-0230",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1800",
+        "end": "0230"
+      },
+      "Tue": {
+        "time": "1800-0230",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1800",
+        "end": "0230"
+      },
+      "Wed": {
+        "time": "1800-0230",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1800",
+        "end": "0230"
+      },
+      "Thur": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "1800-0230",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "1800",
+        "end": "0230"
+      },
+      "Sun": {
+        "time": "1800-0230",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "1800",
+        "end": "0230"
+      }
+    }
+  },
+  {
+    "shift": "28",
+    "name": "Thomas, Devin",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "1900-0330",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1900",
+        "end": "0330"
+      },
+      "Wed": {
+        "time": "1900-0330",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1900",
+        "end": "0330"
+      },
+      "Thur": {
+        "time": "1800-0230",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1800",
+        "end": "0230"
+      },
+      "Fri": {
+        "time": "1800-0230",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1800",
+        "end": "0230"
+      },
+      "Sat": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "29",
+    "name": "Dawson, Hakeem",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "1900-0330",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "1900",
+        "end": "0330"
+      },
+      "Tue": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "1900-0330",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1900",
+        "end": "0330"
+      },
+      "Fri": {
+        "time": "1900-0330",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1900",
+        "end": "0330"
+      },
+      "Sat": {
+        "time": "1900-0330",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1900",
+        "end": "0330"
+      },
+      "Sun": {
+        "time": "1900-0330",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1900",
+        "end": "0330"
+      }
+    }
+  },
+  {
+    "shift": "30",
+    "name": "Membreno, Irma",
+    "wkly_hrs": "35",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "2000-0330",
+        "hrs": "7",
+        "lot": "WEST LOT",
+        "start": "2000",
+        "end": "0330"
+      },
+      "Thur": {
+        "time": "2000-0330",
+        "hrs": "7",
+        "lot": "WEST LOT",
+        "start": "2000",
+        "end": "0330"
+      },
+      "Fri": {
+        "time": "2000-0330",
+        "hrs": "7",
+        "lot": "WEST LOT",
+        "start": "2000",
+        "end": "0330"
+      },
+      "Sat": {
+        "time": "2000-0330",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "2000",
+        "end": "0330"
+      },
+      "Sun": {
+        "time": "2000-0330",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "2000",
+        "end": "0330"
+      }
+    }
+  },
+  {
+    "shift": "31",
+    "name": "Allen, Clarence",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "2000-0430",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2000",
+        "end": "0430"
+      },
+      "Tue": {
+        "time": "2000-0430",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2000",
+        "end": "0430"
+      },
+      "Wed": {
+        "time": "2100-0530",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2100",
+        "end": "0530"
+      },
+      "Thur": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "2100-0530",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "2100",
+        "end": "0530"
+      },
+      "Sun": {
+        "time": "2100-0530",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "2100",
+        "end": "0530"
+      }
+    }
+  },
+  {
+    "shift": "32",
+    "name": "Gales, Dianna",
+    "wkly_hrs": "35",
+    "days": {
+      "Mon": {
+        "time": "2100-0530",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "2100",
+        "end": "0530"
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "2100-0530",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2100",
+        "end": "0530"
+      },
+      "Fri": {
+        "time": "2100-0230",
+        "hrs": "5",
+        "lot": "EAST LOT",
+        "start": "2100",
+        "end": "0230"
+      },
+      "Sat": {
+        "time": "2200-0530",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "2200",
+        "end": "0530"
+      },
+      "Sun": {
+        "time": "2200-0530",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "2200",
+        "end": "0530"
+      }
+    }
+  },
+  {
+    "shift": "33",
+    "name": "Morales, Brandon",
+    "wkly_hrs": "23",
+    "days": {
+      "Mon": {
+        "time": "2200-0200",
+        "hrs": "4",
+        "lot": "WEST LOT",
+        "start": "2200",
+        "end": "0200"
+      },
+      "Tue": {
+        "time": "2200-0200",
+        "hrs": "4",
+        "lot": "EAST LOT",
+        "start": "2200",
+        "end": "0200"
+      },
+      "Wed": {
+        "time": "2200-0200",
+        "hrs": "4",
+        "lot": "WEST LOT",
+        "start": "2200",
+        "end": "0200"
+      },
+      "Thur": {
+        "time": "2200-0200",
+        "hrs": "4",
+        "lot": "WEST LOT",
+        "start": "2200",
+        "end": "0200"
+      },
+      "Fri": {
+        "time": "2200-0530",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "2200",
+        "end": "0530"
+      },
+      "Sat": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "34",
+    "name": "Bowie, Triston",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "2300-0730",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2300",
+        "end": "0730"
+      },
+      "Thur": {
+        "time": "2300-0730",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "2300",
+        "end": "0730"
+      },
+      "Fri": {
+        "time": "2300-0730",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "2300",
+        "end": "0730"
+      },
+      "Sat": {
+        "time": "2300-0730",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2300",
+        "end": "0730"
+      },
+      "Sun": {
+        "time": "2300-0730",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "2300",
+        "end": "0730"
+      }
+    }
+  },
+  {
+    "shift": "35",
+    "name": "Mitchell Jr, Gary",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "2300-0730",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2300",
+        "end": "0730"
+      },
+      "Tue": {
+        "time": "2300-0930",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2300",
+        "end": "0930"
+      },
+      "Wed": {
+        "time": "0100-0930",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0100",
+        "end": "0930"
+      },
+      "Thur": {
+        "time": "0100-0930",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0100",
+        "end": "0930"
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "36",
+    "name": "",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "0100-0730",
+        "hrs": "6",
+        "lot": "WEST LOT",
+        "start": "0100",
+        "end": "0730"
+      },
+      "Tue": {
+        "time": "0100-0730",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "0100",
+        "end": "0730"
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "0100-0730",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "0100",
+        "end": "0730"
+      },
+      "Sat": {
+        "time": "0100-0830",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0100",
+        "end": "0830"
+      },
+      "Sun": {
+        "time": "0100-0830",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0100",
+        "end": "0830"
+      }
+    }
+  },
+  {
+    "shift": "37",
+    "name": "Soto, Guadalupe",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "0200-1030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0200",
+        "end": "1030"
+      },
+      "Thur": {
+        "time": "0200-1030",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "0200",
+        "end": "1030"
+      },
+      "Fri": {
+        "time": "0200-1030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0200",
+        "end": "1030"
+      },
+      "Sat": {
+        "time": "0200-1030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0200",
+        "end": "1030"
+      },
+      "Sun": {
+        "time": "0200-1030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0200",
+        "end": "1030"
+      }
+    }
+  },
+  {
+    "shift": "38",
+    "name": "Farries, Natasha",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "0200-1030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0200",
+        "end": "1030"
+      },
+      "Tue": {
+        "time": "0200-1030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0200",
+        "end": "1030"
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "0300-1130",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "0300",
+        "end": "1130"
+      },
+      "Sat": {
+        "time": "0300-1130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0300",
+        "end": "1130"
+      },
+      "Sun": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "39",
+    "name": "Kassa, Mekonnen",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "0300-1130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0300",
+        "end": "1130"
+      },
+      "Tue": {
+        "time": "0300-1130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0300",
+        "end": "1130"
+      },
+      "Wed": {
+        "time": "0300-1130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0300",
+        "end": "1130"
+      },
+      "Thur": {
+        "time": "0300-1130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0300",
+        "end": "1130"
+      },
+      "Fri": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "0300-1130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0300",
+        "end": "1130"
+      }
+    }
+  },
+  {
+    "shift": "40",
+    "name": "Wilkins, Jesus",
+    "wkly_hrs": "20",
+    "days": {
+      "Mon": {
+        "time": "0400-0900",
+        "hrs": "5",
+        "lot": "EAST LOT",
+        "start": "0400",
+        "end": "0900"
+      },
+      "Tue": {
+        "time": "0400-0900",
+        "hrs": "5",
+        "lot": "EAST LOT",
+        "start": "0400",
+        "end": "0900"
+      },
+      "Wed": {
+        "time": "0400-0900",
+        "hrs": "5",
+        "lot": "EAST LOT",
+        "start": "0400",
+        "end": "0900"
+      },
+      "Thur": {
+        "time": "0400-0900",
+        "hrs": "5",
+        "lot": "EAST LOT",
+        "start": "0400",
+        "end": "0900"
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "41",
+    "name": "Aaron, Jonathan",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "0500-1330",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0500",
+        "end": "1330"
+      },
+      "Tue": {
+        "time": "0500-1330",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "0500",
+        "end": "1330"
+      },
+      "Wed": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "0400-1230",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0400",
+        "end": "1230"
+      },
+      "Sat": {
+        "time": "0400-1230",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0400",
+        "end": "1230"
+      },
+      "Sun": {
+        "time": "0400-1230",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0400",
+        "end": "1230"
+      }
+    }
+  },
+  {
+    "shift": "42",
+    "name": "Denton, Phillip",
+    "wkly_hrs": "35",
+    "days": {
+      "Mon": {
+        "time": "0600-01330",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0600",
+        "end": "01330"
+      },
+      "Tue": {
+        "time": "0600-1330",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0600",
+        "end": "1330"
+      },
+      "Wed": {
+        "time": "0500-1230",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0500",
+        "end": "1230"
+      },
+      "Thur": {
+        "time": "0500-1230",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0500",
+        "end": "1230"
+      },
+      "Fri": {
+        "time": "0500-1230",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0500",
+        "end": "1230"
+      },
+      "Sat": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "43",
+    "name": "Robinson, Kameelah",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "0600-1430",
+        "hrs": "8",
+        "lot": "BREAKER",
+        "start": "0600",
+        "end": "1430"
+      },
+      "Tue": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "0600-1430",
+        "hrs": "8",
+        "lot": "BREAKER",
+        "start": "0600",
+        "end": "1430"
+      },
+      "Fri": {
+        "time": "0600-1430",
+        "hrs": "8",
+        "lot": "BREAKER",
+        "start": "0600",
+        "end": "1430"
+      },
+      "Sat": {
+        "time": "0600-1430",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0600",
+        "end": "1430"
+      },
+      "Sun": {
+        "time": "0600-1430",
+        "hrs": "8",
+        "lot": "BREAKER",
+        "start": "0600",
+        "end": "1430"
+      }
+    }
+  },
+  {
+    "shift": "44",
+    "name": "Sterling, Akie",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "0700-1530",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "0700",
+        "end": "1530"
+      },
+      "Tue": {
+        "time": "0700-1530",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "0700",
+        "end": "1530"
+      },
+      "Wed": {
+        "time": "0600-1430",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "0600",
+        "end": "1430"
+      },
+      "Thur": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "0500-1300",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "0500",
+        "end": "1300"
+      },
+      "Sun": {
+        "time": "0500-1330",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0500",
+        "end": "1330"
+      }
+    }
+  },
+  {
+    "shift": "45",
+    "name": "Adair Jr, Cleophus",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "0700-1430",
+        "hrs": "7",
+        "lot": "WEST LOT",
+        "start": "0700",
+        "end": "1430"
+      },
+      "Thur": {
+        "time": "0700-1430",
+        "hrs": "7",
+        "lot": "WEST LOT",
+        "start": "0700",
+        "end": "1430"
+      },
+      "Fri": {
+        "time": "07:00-13:30",
+        "hrs": "6",
+        "lot": "WEST LOT",
+        "start": "0700",
+        "end": "1330"
+      },
+      "Sat": {
+        "time": "07:00-153:30",
+        "hrs": "6",
+        "lot": "WEST LOT",
+        "start": "0700",
+        "end": "15330"
+      },
+      "Sun": {
+        "time": "07:00-13:30",
+        "hrs": "6",
+        "lot": "WEST LOT",
+        "start": "0700",
+        "end": "1330"
+      }
+    }
+  },
+  {
+    "shift": "46",
+    "name": "Simmons, Meyoshi",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "08:00-1430",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "0800",
+        "end": "1430"
+      },
+      "Tue": {
+        "time": "08:00-1430",
+        "hrs": "6",
+        "lot": "WEST LOT",
+        "start": "0800",
+        "end": "1430"
+      },
+      "Wed": {
+        "time": "08:00-1430",
+        "hrs": "6",
+        "lot": "WEST LOT",
+        "start": "0800",
+        "end": "1430"
+      },
+      "Thur": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "08:00-15:30",
+        "hrs": "7",
+        "lot": "WEST LOT",
+        "start": "0800",
+        "end": "1530"
+      },
+      "Sun": {
+        "time": "08:00-15:30",
+        "hrs": "7",
+        "lot": "WEST LOT",
+        "start": "0800",
+        "end": "1530"
+      }
+    }
+  },
+  {
+    "shift": "47",
+    "name": "",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "0800-1630",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0800",
+        "end": "1630"
+      },
+      "Fri": {
+        "time": "0800-1630",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "0800",
+        "end": "1630"
+      },
+      "Sat": {
+        "time": "900-1730",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "900",
+        "end": "1730"
+      },
+      "Sun": {
+        "time": "0900-1730",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0900",
+        "end": "1730"
+      }
+    }
+  },
+  {
+    "shift": "48",
+    "name": "Gutierrez, Jose",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "900-1730",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "900",
+        "end": "1730"
+      },
+      "Tue": {
+        "time": "0900-1730",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0900",
+        "end": "1730"
+      },
+      "Wed": {
+        "time": "900-1730",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "900",
+        "end": "1730"
+      },
+      "Thur": {
+        "time": "0900-1730",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0900",
+        "end": "1730"
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "49",
+    "name": "Mejia, Ernesto",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "1000-1830",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "1000",
+        "end": "1830"
+      },
+      "Thur": {
+        "time": "1000-1830",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1000",
+        "end": "1830"
+      },
+      "Fri": {
+        "time": "1000-1830",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "1000",
+        "end": "1830"
+      },
+      "Sat": {
+        "time": "1000-1830",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "1000",
+        "end": "1830"
+      },
+      "Sun": {
+        "time": "1000-1830",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "1000",
+        "end": "1830"
+      }
+    }
+  },
+  {
+    "shift": "50",
+    "name": "Rodriguez Cordero Jr, Enrique",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "1000-1830",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "1000",
+        "end": "1830"
+      },
+      "Tue": {
+        "time": "1000-1830",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "1000",
+        "end": "1830"
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "1100-1930",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1100",
+        "end": "1930"
+      },
+      "Fri": {
+        "time": "1100-1930",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1100",
+        "end": "1930"
+      },
+      "Sat": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "51",
+    "name": "Gilliams, Tyetanisha",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "1100-1830",
+        "hrs": "7",
+        "lot": "WEST LOT",
+        "start": "1100",
+        "end": "1830"
+      },
+      "Tue": {
+        "time": "1100-1730",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "1100",
+        "end": "1730"
+      },
+      "Wed": {
+        "time": "1100-1730",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "1100",
+        "end": "1730"
+      },
+      "Thur": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "1100-1730",
+        "hrs": "6",
+        "lot": "WEST LOT",
+        "start": "1100",
+        "end": "1730"
+      },
+      "Sun": {
+        "time": "1100-1830",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1100",
+        "end": "1830"
+      }
+    }
+  },
+  {
+    "shift": "52",
+    "name": "Franco, Juan",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "1200-2030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1200",
+        "end": "2030"
+      },
+      "Tue": {
+        "time": "1200-2030",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "1200",
+        "end": "2030"
+      },
+      "Wed": {
+        "time": "1200-2030",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "1200",
+        "end": "2030"
+      },
+      "Thur": {
+        "time": "1200-2030",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "1200",
+        "end": "2030"
+      },
+      "Fri": {
+        "time": "1200-2030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1200",
+        "end": "2030"
+      },
+      "Sat": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "53",
+    "name": "Velasquez, Elizabeth",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "1300-2130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1300",
+        "end": "2130"
+      },
+      "Thur": {
+        "time": "1300-2130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1300",
+        "end": "2130"
+      },
+      "Fri": {
+        "time": "1300-2130",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "1300",
+        "end": "2130"
+      },
+      "Sat": {
+        "time": "1200-2030",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "1200",
+        "end": "2030"
+      },
+      "Sun": {
+        "time": "1200-2030",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "1200",
+        "end": "2030"
+      }
+    }
+  },
+  {
+    "shift": "54",
+    "name": "Lee, Shenwu",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "1300-2130",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "1300",
+        "end": "2130"
+      },
+      "Tue": {
+        "time": "1300-2130",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "1300",
+        "end": "2130"
+      },
+      "Wed": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "1400-2230",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "1400",
+        "end": "2230"
+      },
+      "Sat": {
+        "time": "1300-2130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1300",
+        "end": "2130"
+      },
+      "Sun": {
+        "time": "1300-2130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1300",
+        "end": "2130"
+      }
+    }
+  },
+  {
+    "shift": "55",
+    "name": "Stovall, Damon",
+    "wkly_hrs": "35",
+    "days": {
+      "Mon": {
+        "time": "1400-2130",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1400",
+        "end": "2130"
+      },
+      "Tue": {
+        "time": "1400-2130",
+        "hrs": "7",
+        "lot": "WEST LOT",
+        "start": "1400",
+        "end": "2130"
+      },
+      "Wed": {
+        "time": "1400-2130",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1400",
+        "end": "2130"
+      },
+      "Thur": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "1400-2130",
+        "hrs": "7",
+        "lot": "WEST LOT",
+        "start": "1400",
+        "end": "2130"
+      },
+      "Sun": {
+        "time": "1400-2130",
+        "hrs": "7",
+        "lot": "WEST LOT",
+        "start": "1400",
+        "end": "2130"
+      }
+    }
+  },
+  {
+    "shift": "56",
+    "name": "Jacques, Maria",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "1500-2330",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "1500",
+        "end": "2330"
+      },
+      "Tue": {
+        "time": "1500-2330",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "1500",
+        "end": "2330"
+      },
+      "Wed": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "1500-2330",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "1500",
+        "end": "2330"
+      },
+      "Sat": {
+        "time": "1500-2330",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1500",
+        "end": "2330"
+      },
+      "Sun": {
+        "time": "1500-2330",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1500",
+        "end": "2330"
+      }
+    }
+  },
+  {
+    "shift": "57",
+    "name": "Bates, Aaron",
+    "wkly_hrs": "34",
+    "days": {
+      "Mon": {
+        "time": "1600-2330",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1600",
+        "end": "2330"
+      },
+      "Tue": {
+        "time": "1600-2330",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1600",
+        "end": "2330"
+      },
+      "Wed": {
+        "time": "1500-2130",
+        "hrs": "6",
+        "lot": "WEST LOT",
+        "start": "1500",
+        "end": "2130"
+      },
+      "Thur": {
+        "time": "1500-2230",
+        "hrs": "7",
+        "lot": "WEST LOT",
+        "start": "1500",
+        "end": "2230"
+      },
+      "Fri": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "1600-2330",
+        "hrs": "7",
+        "lot": "WEST LOT",
+        "start": "1600",
+        "end": "2330"
+      }
+    }
+  },
+  {
+    "shift": "58",
+    "name": "Navarro, Jesus",
+    "wkly_hrs": "34",
+    "days": {
+      "Mon": {
+        "time": "1730-0000",
+        "hrs": "7",
+        "lot": "WEST LOT",
+        "start": "1730",
+        "end": "0000"
+      },
+      "Tue": {
+        "time": "1700-2330",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "1700",
+        "end": "2330"
+      },
+      "Wed": {
+        "time": "1600-2330",
+        "hrs": "7",
+        "lot": "WEST LOT",
+        "start": "1600",
+        "end": "2330"
+      },
+      "Thur": {
+        "time": "1600-2330",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1600",
+        "end": "2330"
+      },
+      "Fri": {
+        "time": "1600-2330",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1600",
+        "end": "2330"
+      },
+      "Sat": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "59",
+    "name": "Shaffer, Tanesha",
+    "wkly_hrs": "35",
+    "days": {
+      "Mon": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "1700-0030",
+        "hrs": "7",
+        "lot": "WEST LOT",
+        "start": "1700",
+        "end": "0030"
+      },
+      "Thur": {
+        "time": "1700-0030",
+        "hrs": "7",
+        "lot": "WEST LOT",
+        "start": "1700",
+        "end": "0030"
+      },
+      "Fri": {
+        "time": "1700-0030",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1700",
+        "end": "0030"
+      },
+      "Sat": {
+        "time": "1700-0030",
+        "hrs": "7",
+        "lot": "WEST LOT",
+        "start": "1700",
+        "end": "0030"
+      },
+      "Sun": {
+        "time": "1700-0030",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1700",
+        "end": "0030"
+      }
+    }
+  },
+  {
+    "shift": "60",
+    "name": "Freeman, Glenn",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "1800-0030",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "1800",
+        "end": "0030"
+      },
+      "Thur": {
+        "time": "1800-0030",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "1800",
+        "end": "0030"
+      },
+      "Fri": {
+        "time": "1800-0030",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "1800",
+        "end": "0030"
+      },
+      "Sat": {
+        "time": "1800-0130",
+        "hrs": "7",
+        "lot": "WEST LOT",
+        "start": "1800",
+        "end": "0130"
+      },
+      "Sun": {
+        "time": "1800-0130",
+        "hrs": "7",
+        "lot": "WEST LOT",
+        "start": "1800",
+        "end": "0130"
+      }
+    }
+  },
+  {
+    "shift": "61",
+    "name": "",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "1800-0030",
+        "hrs": "6",
+        "lot": "WEST LOT",
+        "start": "1800",
+        "end": "0030"
+      },
+      "Tue": {
+        "time": "1800-0030",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "1800",
+        "end": "0030"
+      },
+      "Wed": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "1900-0130",
+        "hrs": "6",
+        "lot": "WEST LOT",
+        "start": "1900",
+        "end": "0130"
+      },
+      "Sat": {
+        "time": "1900-0230",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1900",
+        "end": "0230"
+      },
+      "Sun": {
+        "time": "19000-0230",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "19000",
+        "end": "0230"
+      }
+    }
+  },
+  {
+    "shift": "62",
+    "name": "Halk, Carmella",
+    "wkly_hrs": "35",
+    "days": {
+      "Mon": {
+        "time": "1900-0230",
+        "hrs": "7",
+        "lot": "WEST LOT",
+        "start": "1900",
+        "end": "0230"
+      },
+      "Tue": {
+        "time": "1900-0230",
+        "hrs": "7",
+        "lot": "WEST LOT",
+        "start": "1900",
+        "end": "0230"
+      },
+      "Wed": {
+        "time": "1900-0230",
+        "hrs": "7",
+        "lot": "WEST LOT",
+        "start": "1900",
+        "end": "0230"
+      },
+      "Thur": {
+        "time": "1900-0230",
+        "hrs": "7",
+        "lot": "WEST LOT",
+        "start": "1900",
+        "end": "0230"
+      },
+      "Fri": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "2000-0330",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "2000",
+        "end": "0330"
+      }
+    }
+  },
+  {
+    "shift": "63",
+    "name": "Todman, Shamon",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "2000-0430",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2000",
+        "end": "0430"
+      },
+      "Tue": {
+        "time": "2000-0430",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2000",
+        "end": "0430"
+      },
+      "Wed": {
+        "time": "2000-0430",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2000",
+        "end": "0430"
+      },
+      "Thur": {
+        "time": "2000-0430",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2000",
+        "end": "0430"
+      },
+      "Fri": {
+        "time": "2000-0430",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2000",
+        "end": "0430"
+      },
+      "Sat": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "64",
+    "name": "Wright, Steven",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "2100-0530",
+        "hrs": "8",
+        "lot": "BREAKER",
+        "start": "2100",
+        "end": "0530"
+      },
+      "Wed": {
+        "time": "2100-0530",
+        "hrs": "8",
+        "lot": "BREAKER",
+        "start": "2100",
+        "end": "0530"
+      },
+      "Thur": {
+        "time": "2100-0530",
+        "hrs": "8",
+        "lot": "BREAKER",
+        "start": "2100",
+        "end": "0530"
+      },
+      "Fri": {
+        "time": "2100-0530",
+        "hrs": "8",
+        "lot": "BREAKER",
+        "start": "2100",
+        "end": "0530"
+      },
+      "Sat": {
+        "time": "2100-0530",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2100",
+        "end": "0530"
+      },
+      "Sun": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "65",
+    "name": "",
+    "wkly_hrs": "20",
+    "days": {
+      "Mon": {
+        "time": "2100-0330",
+        "hrs": "6",
+        "lot": "WEST LOT",
+        "start": "2100",
+        "end": "0330"
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "2000-0230",
+        "hrs": "6",
+        "lot": "SOUTH LOT",
+        "start": "2000",
+        "end": "0230"
+      },
+      "Sun": {
+        "time": "2100-0530",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "2100",
+        "end": "0530"
+      }
+    }
+  },
+  {
+    "shift": "66",
+    "name": "Beamon, Letrice",
+    "wkly_hrs": "20",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "2200-0200",
+        "hrs": "4",
+        "lot": "WEST LOT",
+        "start": "2200",
+        "end": "0200"
+      },
+      "Thur": {
+        "time": "2200-0200",
+        "hrs": "4",
+        "lot": "WEST LOT",
+        "start": "2200",
+        "end": "0200"
+      },
+      "Fri": {
+        "time": "2200-0200",
+        "hrs": "4",
+        "lot": "EAST LOT",
+        "start": "2200",
+        "end": "0200"
+      },
+      "Sat": {
+        "time": "2200-0200",
+        "hrs": "4",
+        "lot": "SOUTH LOT",
+        "start": "2200",
+        "end": "0200"
+      },
+      "Sun": {
+        "time": "2200-0200",
+        "hrs": "4",
+        "lot": "EAST LOT",
+        "start": "2200",
+        "end": "0200"
+      }
+    }
+  },
+  {
+    "shift": "67",
+    "name": "Hunt, Tujuana",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "2200-0630",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2200",
+        "end": "0630"
+      },
+      "Tue": {
+        "time": "2200-0630",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "2200",
+        "end": "0630"
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "2300-0730",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "2300",
+        "end": "0730"
+      },
+      "Sun": {
+        "time": "2300-0730",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "2300",
+        "end": "0730"
+      }
+    }
+  },
+  {
+    "shift": "68",
+    "name": "",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "2200-0630",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "2200",
+        "end": "0630"
+      },
+      "Thur": {
+        "time": "2200-0630",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2200",
+        "end": "0630"
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "2000-0330",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2000",
+        "end": "0330"
+      },
+      "Sun": {
+        "time": "2100-0530",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2100",
+        "end": "0530"
+      }
+    }
+  },
+  {
+    "shift": "69",
+    "name": "Heard, Wynetta",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "2300-0730",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2300",
+        "end": "0730"
+      },
+      "Tue": {
+        "time": "2300-0730",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "2300",
+        "end": "0730"
+      },
+      "Wed": {
+        "time": "2300-0730",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "2300",
+        "end": "0730"
+      },
+      "Thur": {
+        "time": "2300-0730",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "2300",
+        "end": "0730"
+      },
+      "Fri": {
+        "time": "2300-0730",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2300",
+        "end": "0730"
+      },
+      "Sat": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "70",
+    "name": "Burton, Brandon",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "0200-1030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0200",
+        "end": "1030"
+      },
+      "Tue": {
+        "time": "0200-1030",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "0200",
+        "end": "1030"
+      },
+      "Wed": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "0200-1030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0200",
+        "end": "1030"
+      },
+      "Sat": {
+        "time": "0200-1030",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "0200",
+        "end": "1030"
+      },
+      "Sun": {
+        "time": "0200-1030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0200",
+        "end": "1030"
+      }
+    }
+  },
+  {
+    "shift": "71",
+    "name": "Gonzalez, Maria",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "0200-1030",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "0200",
+        "end": "1030"
+      },
+      "Thur": {
+        "time": "0200-1030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0200",
+        "end": "1030"
+      },
+      "Fri": {
+        "time": "0300-1130",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "0300",
+        "end": "1130"
+      },
+      "Sat": {
+        "time": "0300-1130",
+        "hrs": "8",
+        "lot": "BREAKER",
+        "start": "0300",
+        "end": "1130"
+      },
+      "Sun": {
+        "time": "0300-1130",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "0300",
+        "end": "1130"
+      }
+    }
+  },
+  {
+    "shift": "72",
+    "name": "Johnson, Kyesha",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "0300-1130",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "0300",
+        "end": "1130"
+      },
+      "Tue": {
+        "time": "0300-1130",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "0300",
+        "end": "1130"
+      },
+      "Wed": {
+        "time": "0300-1130",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "0300",
+        "end": "1130"
+      },
+      "Thur": {
+        "time": "0300-1130",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "0300",
+        "end": "1130"
+      },
+      "Fri": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "73",
+    "name": "Dunlap, Calvin",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "0400-1230",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0400",
+        "end": "1230"
+      },
+      "Tue": {
+        "time": "0400-1230",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "0400",
+        "end": "1230"
+      },
+      "Wed": {
+        "time": "0400-1230",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "0400",
+        "end": "1230"
+      },
+      "Thur": {
+        "time": "0400-1230",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "0400",
+        "end": "1230"
+      },
+      "Fri": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "74",
+    "name": "",
+    "wkly_hrs": "33",
+    "days": {
+      "Mon": {
+        "time": "0500-1130",
+        "hrs": "6",
+        "lot": "SOUTH LOT",
+        "start": "0500",
+        "end": "1130"
+      },
+      "Tue": {
+        "time": "0500-1130",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "0500",
+        "end": "1130"
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "0400-1130",
+        "hrs": "7",
+        "lot": "WEST LOT",
+        "start": "0400",
+        "end": "1130"
+      },
+      "Sat": {
+        "time": "0400-1130",
+        "hrs": "7",
+        "lot": "SOUTH LOT",
+        "start": "0400",
+        "end": "1130"
+      },
+      "Sun": {
+        "time": "0400-1130",
+        "hrs": "7",
+        "lot": "SOUTH LOT",
+        "start": "0400",
+        "end": "1130"
+      }
+    }
+  },
+  {
+    "shift": "75",
+    "name": "Morgan, Andre",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "0500-1330",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0500",
+        "end": "1330"
+      },
+      "Thur": {
+        "time": "0500-1330",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "0500",
+        "end": "1330"
+      },
+      "Fri": {
+        "time": "0500-1330",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "0500",
+        "end": "1330"
+      },
+      "Sat": {
+        "time": "0500-1330",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0500",
+        "end": "1330"
+      },
+      "Sun": {
+        "time": "0500-1330",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0500",
+        "end": "1330"
+      }
+    }
+  },
+  {
+    "shift": "76",
+    "name": "",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "0600-1430",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "0600",
+        "end": "1430"
+      },
+      "Fri": {
+        "time": "0600-1430",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "0600",
+        "end": "1430"
+      },
+      "Sat": {
+        "time": "0600-1430",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "0600",
+        "end": "1430"
+      },
+      "Sun": {
+        "time": "0600-1430",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "0600",
+        "end": "1430"
+      }
+    }
+  },
+  {
+    "shift": "77",
+    "name": "Taylor, April",
+    "wkly_hrs": "20",
+    "days": {
+      "Mon": {
+        "time": "0600-1000",
+        "hrs": "4",
+        "lot": "WEST LOT",
+        "start": "0600",
+        "end": "1000"
+      },
+      "Tue": {
+        "time": "0600-1430",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0600",
+        "end": "1430"
+      },
+      "Wed": {
+        "time": "0600-1430",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "0600",
+        "end": "1430"
+      },
+      "Thur": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "78",
+    "name": "Winters, Dominique",
+    "wkly_hrs": "35",
+    "days": {
+      "Mon": {
+        "time": "0700-1430",
+        "hrs": "7",
+        "lot": "SOUTH LOT",
+        "start": "0700",
+        "end": "1430"
+      },
+      "Tue": {
+        "time": "0700-1430",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0700",
+        "end": "1430"
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "0700-1430",
+        "hrs": "7",
+        "lot": "WEST LOT",
+        "start": "0700",
+        "end": "1430"
+      },
+      "Sat": {
+        "time": "0700-1430",
+        "hrs": "7",
+        "lot": "SOUTH LOT",
+        "start": "0700",
+        "end": "1430"
+      },
+      "Sun": {
+        "time": "0700-1430",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0700",
+        "end": "1430"
+      }
+    }
+  },
+  {
+    "shift": "79",
+    "name": "Mcgee, Briana",
+    "wkly_hrs": "20",
+    "days": {
+      "Mon": {
+        "time": "0800-1300",
+        "hrs": "5",
+        "lot": "EAST LOT",
+        "start": "0800",
+        "end": "1300"
+      },
+      "Tue": {
+        "time": "0800-1300",
+        "hrs": "5",
+        "lot": "EAST LOT",
+        "start": "0800",
+        "end": "1300"
+      },
+      "Wed": {
+        "time": "0700-1200",
+        "hrs": "5",
+        "lot": "EAST LOT",
+        "start": "0700",
+        "end": "1200"
+      },
+      "Thur": {
+        "time": "0700-1200",
+        "hrs": "5",
+        "lot": "SOUTH LOT",
+        "start": "0700",
+        "end": "1200"
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "80",
+    "name": "Gunderson, Maria",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "0800-1630",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "0800",
+        "end": "1630"
+      },
+      "Thur": {
+        "time": "0800-1630",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0800",
+        "end": "1630"
+      },
+      "Fri": {
+        "time": "0800-1630",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0800",
+        "end": "1630"
+      },
+      "Sat": {
+        "time": "0800-1630",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0800",
+        "end": "1630"
+      },
+      "Sun": {
+        "time": "0800-1630",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "0800",
+        "end": "1630"
+      }
+    }
+  },
+  {
+    "shift": "81",
+    "name": "Carter, Karen",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "0900-1730",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "0900",
+        "end": "1730"
+      },
+      "Tue": {
+        "time": "0900-1730",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "0900",
+        "end": "1730"
+      },
+      "Wed": {
+        "time": "0900-1730",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0900",
+        "end": "1730"
+      },
+      "Thur": {
+        "time": "0900-1730",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "0900",
+        "end": "1730"
+      },
+      "Fri": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "0900-1730",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0900",
+        "end": "1730"
+      }
+    }
+  },
+  {
+    "shift": "82",
+    "name": "Jones, Andre",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "1000-1830",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "1000",
+        "end": "1830"
+      },
+      "Tue": {
+        "time": "1000-1830",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "1000",
+        "end": "1830"
+      },
+      "Wed": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "1000-1830",
+        "hrs": "8",
+        "lot": "WEST LOT",
+        "start": "1000",
+        "end": "1830"
+      },
+      "Sat": {
+        "time": "1000-1830",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1000",
+        "end": "1830"
+      },
+      "Sun": {
+        "time": "1000-1830",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "1000",
+        "end": "1830"
+      }
+    }
+  },
+  {
+    "shift": "83",
+    "name": "Melgar, Arturo",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "1000-1830",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "1000",
+        "end": "1830"
+      },
+      "Thur": {
+        "time": "1000-1830",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "1000",
+        "end": "1830"
+      },
+      "Fri": {
+        "time": "0900-1730",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "0900",
+        "end": "1730"
+      },
+      "Sat": {
+        "time": "0900-1730",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0900",
+        "end": "1730"
+      },
+      "Sun": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "84",
+    "name": "",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "1100-1730",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "1100",
+        "end": "1730"
+      },
+      "Thur": {
+        "time": "1100-1730",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "1100",
+        "end": "1730"
+      },
+      "Fri": {
+        "time": "1100-1730",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "1100",
+        "end": "1730"
+      },
+      "Sat": {
+        "time": "1100-1830",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1100",
+        "end": "1830"
+      },
+      "Sun": {
+        "time": "1100-1830",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1100",
+        "end": "1830"
+      }
+    }
+  },
+  {
+    "shift": "85",
+    "name": "Williams, Sarah",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "1100-1930",
+        "hrs": "8",
+        "lot": "BREAKER",
+        "start": "1100",
+        "end": "1930"
+      },
+      "Tue": {
+        "time": "1100-1930",
+        "hrs": "8",
+        "lot": "BREAKER",
+        "start": "1100",
+        "end": "1930"
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "1200-2030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1200",
+        "end": "2030"
+      },
+      "Sun": {
+        "time": "1200-2030",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "1200",
+        "end": "2030"
+      }
+    }
+  },
+  {
+    "shift": "86",
+    "name": "Gebremichael, Mulugeta",
+    "wkly_hrs": "35",
+    "days": {
+      "Mon": {
+        "time": "1200-1930",
+        "hrs": "7",
+        "lot": "SOUTH LOT",
+        "start": "1200",
+        "end": "1930"
+      },
+      "Tue": {
+        "time": "1200-1930",
+        "hrs": "7",
+        "lot": "SOUTH LOT",
+        "start": "1200",
+        "end": "1930"
+      },
+      "Wed": {
+        "time": "1200-1930",
+        "hrs": "7",
+        "lot": "SOUTH LOT",
+        "start": "1200",
+        "end": "1930"
+      },
+      "Thur": {
+        "time": "1200-1930",
+        "hrs": "7",
+        "lot": "SOUTH LOT",
+        "start": "1200",
+        "end": "1930"
+      },
+      "Fri": {
+        "time": "1200-1930",
+        "hrs": "7",
+        "lot": "SOUTH LOT",
+        "start": "1200",
+        "end": "1930"
+      },
+      "Sat": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "87",
+    "name": "",
+    "wkly_hrs": "35",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "1300-2030",
+        "hrs": "7",
+        "lot": "SOUTH LOT",
+        "start": "1300",
+        "end": "2030"
+      },
+      "Thur": {
+        "time": "1300-2030",
+        "hrs": "7",
+        "lot": "SOUTH LOT",
+        "start": "1300",
+        "end": "2030"
+      },
+      "Fri": {
+        "time": "1300-2030",
+        "hrs": "7",
+        "lot": "SOUTH LOT",
+        "start": "1300",
+        "end": "2030"
+      },
+      "Sat": {
+        "time": "1300-2030",
+        "hrs": "7",
+        "lot": "SOUTH LOT",
+        "start": "1300",
+        "end": "2030"
+      },
+      "Sun": {
+        "time": "1300-2030",
+        "hrs": "7",
+        "lot": "SOUTH LOT",
+        "start": "1300",
+        "end": "2030"
+      }
+    }
+  },
+  {
+    "shift": "88",
+    "name": "Blaylock, Jumah",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "1300-2130",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "1300",
+        "end": "2130"
+      },
+      "Tue": {
+        "time": "1300-2130",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "1300",
+        "end": "2130"
+      },
+      "Wed": {
+        "time": "1400-2230",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1400",
+        "end": "2230"
+      },
+      "Thur": {
+        "time": "1400-2230",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1400",
+        "end": "2230"
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "89",
+    "name": "Dixon, Shane",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "1400-2230",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "1400",
+        "end": "2230"
+      },
+      "Tue": {
+        "time": "1400-2230",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1400",
+        "end": "2230"
+      },
+      "Wed": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "1400-2230",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "1400",
+        "end": "2230"
+      },
+      "Sat": {
+        "time": "1400-2230",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1400",
+        "end": "2230"
+      },
+      "Sun": {
+        "time": "1400-2230",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1400",
+        "end": "2230"
+      }
+    }
+  },
+  {
+    "shift": "90",
+    "name": "",
+    "wkly_hrs": "35",
+    "days": {
+      "Mon": {
+        "time": "1500-2230",
+        "hrs": "7",
+        "lot": "SOUTH LOT",
+        "start": "1500",
+        "end": "2230"
+      },
+      "Tue": {
+        "time": "1500-2230",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1500",
+        "end": "2230"
+      },
+      "Wed": {
+        "time": "1500-2230",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1500",
+        "end": "2230"
+      },
+      "Thur": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "1500-2230",
+        "hrs": "7",
+        "lot": "BREAKER",
+        "start": "1500",
+        "end": "2230"
+      },
+      "Sun": {
+        "time": "1500-2230",
+        "hrs": "7",
+        "lot": "SOUTH LOT",
+        "start": "1500",
+        "end": "2230"
+      }
+    }
+  },
+  {
+    "shift": "91",
+    "name": "",
+    "wkly_hrs": "20",
+    "days": {
+      "Mon": {
+        "time": "1600-2230",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "1600",
+        "end": "2230"
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "1500-2130",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "1500",
+        "end": "2130"
+      },
+      "Fri": {
+        "time": "1500-2330",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1500",
+        "end": "2330"
+      },
+      "Sat": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "92",
+    "name": "",
+    "wkly_hrs": "34",
+    "days": {
+      "Mon": {
+        "time": "1730-00",
+        "hrs": "6",
+        "lot": "SOUTH LOT",
+        "start": "1730",
+        "end": "00"
+      },
+      "Tue": {
+        "time": "1600-2230",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "1600",
+        "end": "2230"
+      },
+      "Wed": {
+        "time": "1600-0030",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "1600",
+        "end": "0030"
+      },
+      "Thur": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "1600-2330",
+        "hrs": "7",
+        "lot": "SOUTH LOT",
+        "start": "1600",
+        "end": "2330"
+      },
+      "Sun": {
+        "time": "1600-2330",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1600",
+        "end": "2330"
+      }
+    }
+  },
+  {
+    "shift": "93",
+    "name": "Lee, Jaron",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "1600-0030",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "1600",
+        "end": "0030"
+      },
+      "Fri": {
+        "time": "1600-0030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1600",
+        "end": "0030"
+      },
+      "Sat": {
+        "time": "1700-0130",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "1700",
+        "end": "0130"
+      },
+      "Sun": {
+        "time": "1700-0130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1700",
+        "end": "0130"
+      }
+    }
+  },
+  {
+    "shift": "94",
+    "name": "Davis, Kenneth",
+    "wkly_hrs": "25",
+    "days": {
+      "Mon": {
+        "time": "1800-2300",
+        "hrs": "5",
+        "lot": "SOUTH LOT",
+        "start": "1800",
+        "end": "2300"
+      },
+      "Tue": {
+        "time": "1700-2200",
+        "hrs": "5",
+        "lot": "EAST LOT",
+        "start": "1700",
+        "end": "2200"
+      },
+      "Wed": {
+        "time": "1700-2200",
+        "hrs": "5",
+        "lot": "EAST LOT",
+        "start": "1700",
+        "end": "2200"
+      },
+      "Thur": {
+        "time": "1700-2200",
+        "hrs": "5",
+        "lot": "SOUTH LOT",
+        "start": "1700",
+        "end": "2200"
+      },
+      "Fri": {
+        "time": "1700-2200",
+        "hrs": "5",
+        "lot": "EAST LOT",
+        "start": "1700",
+        "end": "2200"
+      },
+      "Sat": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "95",
+    "name": "Bland, Kim",
+    "wkly_hrs": "35",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "1800-0130",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1800",
+        "end": "0130"
+      },
+      "Wed": {
+        "time": "1800-0130",
+        "hrs": "7",
+        "lot": "SOUTH LOT",
+        "start": "1800",
+        "end": "0130"
+      },
+      "Thur": {
+        "time": "1800-0130",
+        "hrs": "7",
+        "lot": "SOUTH LOT",
+        "start": "1800",
+        "end": "0130"
+      },
+      "Fri": {
+        "time": "1800-0130",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1800",
+        "end": "0130"
+      },
+      "Sat": {
+        "time": "1800-0130",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1800",
+        "end": "0130"
+      },
+      "Sun": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "96",
+    "name": "Bishop, Tycee",
+    "wkly_hrs": "20",
+    "days": {
+      "Mon": {
+        "time": "1900-0230",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1900",
+        "end": "0230"
+      },
+      "Tue": {
+        "time": "1900-0130",
+        "hrs": "6",
+        "lot": "SOUTH LOT",
+        "start": "1900",
+        "end": "0130"
+      },
+      "Wed": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "1800-0130",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1800",
+        "end": "0130"
+      }
+    }
+  },
+  {
+    "shift": "97",
+    "name": "",
+    "wkly_hrs": "35",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "1900-0230",
+        "hrs": "7",
+        "lot": "SOUTH LOT",
+        "start": "1900",
+        "end": "0230"
+      },
+      "Thur": {
+        "time": "1900-0230",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1900",
+        "end": "0230"
+      },
+      "Fri": {
+        "time": "1900-0230",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1900",
+        "end": "0230"
+      },
+      "Sat": {
+        "time": "1900-0230",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1900",
+        "end": "0230"
+      },
+      "Sun": {
+        "time": "1900-0230",
+        "hrs": "7",
+        "lot": "SOUTH LOT",
+        "start": "1900",
+        "end": "0230"
+      }
+    }
+  },
+  {
+    "shift": "98",
+    "name": "Rodriguez, Rodrigo",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "2000-0430",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "2000",
+        "end": "0430"
+      },
+      "Tue": {
+        "time": "2000-0430",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "2000",
+        "end": "0430"
+      },
+      "Wed": {
+        "time": "2000-0430",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "2000",
+        "end": "0430"
+      },
+      "Thur": {
+        "time": "2000-0430",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "2000",
+        "end": "0430"
+      },
+      "Fri": {
+        "time": "2000-0430",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "2000",
+        "end": "0430"
+      },
+      "Sat": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "99",
+    "name": "Sterling, James",
+    "wkly_hrs": "20",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "1900-0230",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1900",
+        "end": "0230"
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "2000-0230",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "2000",
+        "end": "0230"
+      },
+      "Sun": {
+        "time": "2000-0330",
+        "hrs": "7",
+        "lot": "SOUTH LOT",
+        "start": "2000",
+        "end": "0330"
+      }
+    }
+  },
+  {
+    "shift": "100",
+    "name": "Barbee, Maidest",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "2100-0530",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "2100",
+        "end": "0530"
+      },
+      "Thur": {
+        "time": "2100-0530",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2100",
+        "end": "0530"
+      },
+      "Fri": {
+        "time": "2100-0530",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2100",
+        "end": "0530"
+      },
+      "Sat": {
+        "time": "2100-0530",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "2100",
+        "end": "0530"
+      },
+      "Sun": {
+        "time": "2100-0530",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "2100",
+        "end": "0530"
+      }
+    }
+  },
+  {
+    "shift": "101",
+    "name": "Fowler, Keisha",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "2100-0530",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "2100",
+        "end": "0530"
+      },
+      "Tue": {
+        "time": "2100-0530",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2100",
+        "end": "0530"
+      },
+      "Wed": {
+        "time": "2200-0630",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2200",
+        "end": "0630"
+      },
+      "Thur": {
+        "time": "2200-0630",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2200",
+        "end": "0630"
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "102",
+    "name": "Williams, Lee",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "2200-0630",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2200",
+        "end": "0630"
+      },
+      "Tue": {
+        "time": "2200-0630",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2200",
+        "end": "0630"
+      },
+      "Wed": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "2200-0630",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2200",
+        "end": "0630"
+      },
+      "Sat": {
+        "time": "2200-0630",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "2200",
+        "end": "0630"
+      },
+      "Sun": {
+        "time": "2200-0630",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2200",
+        "end": "0630"
+      }
+    }
+  },
+  {
+    "shift": "103",
+    "name": "Wilson, Shanon",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "2300-0730",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "2300",
+        "end": "0730"
+      },
+      "Tue": {
+        "time": "2300-0730",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "2300",
+        "end": "0730"
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "2300-0730",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "2300",
+        "end": "0730"
+      },
+      "Sun": {
+        "time": "2300-0730",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "2300",
+        "end": "0730"
+      }
+    }
+  },
+  {
+    "shift": "104",
+    "name": "Smith, Jimmie",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "0000-0830",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "0000",
+        "end": "0830"
+      },
+      "Tue": {
+        "time": "0000-0830",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "0000",
+        "end": "0830"
+      },
+      "Wed": {
+        "time": "2300-0730",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2300",
+        "end": "0730"
+      },
+      "Thur": {
+        "time": "2300-0730",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "2300",
+        "end": "0730"
+      },
+      "Fri": {
+        "time": "2300-0730",
+        "hrs": "8",
+        "lot": "SOUTH LOT",
+        "start": "2300",
+        "end": "0730"
+      },
+      "Sat": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "105",
+    "name": "Reynolds, Thomas",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "0000-0830",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0000",
+        "end": "0830"
+      },
+      "Thur": {
+        "time": "000-0830",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "000",
+        "end": "0830"
+      },
+      "Fri": {
+        "time": "00000-0830",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "00000",
+        "end": "0830"
+      },
+      "Sat": {
+        "time": "0000-0830",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0000",
+        "end": "0830"
+      },
+      "Sun": {
+        "time": "0000-0830",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0000",
+        "end": "0830"
+      }
+    }
+  },
+  {
+    "shift": "106",
+    "name": "Keyes, Sean",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "0100-0930",
+        "hrs": "8",
+        "lot": "BREAKER",
+        "start": "0100",
+        "end": "0930"
+      },
+      "Tue": {
+        "time": "0100-0930",
+        "hrs": "8",
+        "lot": "BREAKER",
+        "start": "0100",
+        "end": "0930"
+      },
+      "Wed": {
+        "time": "0100-0930",
+        "hrs": "8",
+        "lot": "BREAKER",
+        "start": "0100",
+        "end": "0930"
+      },
+      "Thur": {
+        "time": "0100-0930",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0100",
+        "end": "0930"
+      },
+      "Fri": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "0100-0930",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "0100",
+        "end": "0930"
+      }
+    }
+  },
+  {
+    "shift": "107",
+    "name": "Paulk, Timmie",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "0200-1030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0200",
+        "end": "1030"
+      },
+      "Thur": {
+        "time": "0200-1030",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "0200",
+        "end": "1030"
+      },
+      "Fri": {
+        "time": "0200-1030",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "0200",
+        "end": "1030"
+      },
+      "Sat": {
+        "time": "0200-1030",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "0200",
+        "end": "1030"
+      },
+      "Sun": {
+        "time": "0200-1030",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "0200",
+        "end": "1030"
+      }
+    }
+  },
+  {
+    "shift": "108",
+    "name": "Basham, Mackolia",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "0200-1030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0200",
+        "end": "1030"
+      },
+      "Tue": {
+        "time": "0200-1030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0200",
+        "end": "1030"
+      },
+      "Wed": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "0100-0930",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "0100",
+        "end": "0930"
+      },
+      "Sat": {
+        "time": "0100-0930",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0100",
+        "end": "0930"
+      },
+      "Sun": {
+        "time": "0300-1130",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "0300",
+        "end": "1130"
+      }
+    }
+  },
+  {
+    "shift": "109",
+    "name": "Dawson, Patty",
+    "wkly_hrs": "35",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "0300-1030",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "0300",
+        "end": "1030"
+      },
+      "Wed": {
+        "time": "0300-1030",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0300",
+        "end": "1030"
+      },
+      "Thur": {
+        "time": "0300-1030",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0300",
+        "end": "1030"
+      },
+      "Fri": {
+        "time": "0300-1030",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0300",
+        "end": "1030"
+      },
+      "Sat": {
+        "time": "0300-1030",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "0300",
+        "end": "1030"
+      },
+      "Sun": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "110",
+    "name": "Smith, Rhazon",
+    "wkly_hrs": "35",
+    "days": {
+      "Mon": {
+        "time": "0400-1130",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "0400",
+        "end": "1130"
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "0400-1130",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0400",
+        "end": "1130"
+      },
+      "Fri": {
+        "time": "0400-1130",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "0400",
+        "end": "1130"
+      },
+      "Sat": {
+        "time": "0400-1130",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0400",
+        "end": "1130"
+      },
+      "Sun": {
+        "time": "0400-1130",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0400",
+        "end": "1130"
+      }
+    }
+  },
+  {
+    "shift": "111",
+    "name": "Meighan, Murlin",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "0300-1130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0300",
+        "end": "1130"
+      },
+      "Tue": {
+        "time": "0400-1230",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "0400",
+        "end": "1230"
+      },
+      "Wed": {
+        "time": "0400-1230",
+        "hrs": "8",
+        "lot": "BREAKER",
+        "start": "0400",
+        "end": "1230"
+      },
+      "Thur": {
+        "time": "0500-1330",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "0500",
+        "end": "1330"
+      },
+      "Fri": {
+        "time": "0500-1330",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0500",
+        "end": "1330"
+      },
+      "Sat": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "112",
+    "name": "Broaden, Louise",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "0500-1330",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0500",
+        "end": "1330"
+      },
+      "Tue": {
+        "time": "0500-1330",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "0500",
+        "end": "1330"
+      },
+      "Wed": {
+        "time": "0500-1330",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0500",
+        "end": "1330"
+      },
+      "Thur": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "0500-1330",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "0500",
+        "end": "1330"
+      },
+      "Sun": {
+        "time": "0500-1330",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "0500",
+        "end": "1330"
+      }
+    }
+  },
+  {
+    "shift": "113",
+    "name": "Jackson, Rico",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "0600-1440",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "0600",
+        "end": "1440"
+      },
+      "Tue": {
+        "time": "0600-1430",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0600",
+        "end": "1430"
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "0600-1430",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0600",
+        "end": "1430"
+      },
+      "Sun": {
+        "time": "0600-1430",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "0600",
+        "end": "1430"
+      }
+    }
+  },
+  {
+    "shift": "114",
+    "name": "Handy, Veta",
+    "wkly_hrs": "28",
+    "days": {
+      "Mon": {
+        "time": "0300-0700",
+        "hrs": "4",
+        "lot": "EAST LOT",
+        "start": "0300",
+        "end": "0700"
+      },
+      "Tue": {
+        "time": "0300-0700",
+        "hrs": "4",
+        "lot": "BP LOT",
+        "start": "0300",
+        "end": "0700"
+      },
+      "Wed": {
+        "time": "0600-1330",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "0600",
+        "end": "1330"
+      },
+      "Thur": {
+        "time": "0600-1330",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "0600",
+        "end": "1330"
+      },
+      "Fri": {
+        "time": "0600-1230",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "0600",
+        "end": "1230"
+      },
+      "Sat": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "115",
+    "name": "Sherman, Regina",
+    "wkly_hrs": "23",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "0700-1200",
+        "hrs": "5",
+        "lot": "BP LOT",
+        "start": "0700",
+        "end": "1200"
+      },
+      "Fri": {
+        "time": "0700-1200",
+        "hrs": "5",
+        "lot": "EAST LOT",
+        "start": "0700",
+        "end": "1200"
+      },
+      "Sat": {
+        "time": "0700-1200",
+        "hrs": "5",
+        "lot": "BP LOT",
+        "start": "0700",
+        "end": "1200"
+      },
+      "Sun": {
+        "time": "0700-1530",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "0700",
+        "end": "1530"
+      }
+    }
+  },
+  {
+    "shift": "116",
+    "name": "Marshall, Sharon",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "0700-1200",
+        "hrs": "5",
+        "lot": "BP LOT",
+        "start": "0700",
+        "end": "1200"
+      },
+      "Tue": {
+        "time": "0700-1200",
+        "hrs": "5",
+        "lot": "EAST LOT",
+        "start": "0700",
+        "end": "1200"
+      },
+      "Wed": {
+        "time": "0700-1500",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "0700",
+        "end": "1500"
+      },
+      "Thur": {
+        "time": "0800-1530",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "0800",
+        "end": "1530"
+      },
+      "Fri": {
+        "time": "0800-1530",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "0800",
+        "end": "1530"
+      },
+      "Sat": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "117",
+    "name": "Deshone, Sharion",
+    "wkly_hrs": "35",
+    "days": {
+      "Mon": {
+        "time": "0800-1530",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0800",
+        "end": "1530"
+      },
+      "Tue": {
+        "time": "0800-1530",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "0800",
+        "end": "1530"
+      },
+      "Wed": {
+        "time": "0800-1530",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "0800",
+        "end": "1530"
+      },
+      "Thur": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "0800-1530",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "0800",
+        "end": "1530"
+      },
+      "Sun": {
+        "time": "0800-1530",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "0800",
+        "end": "1530"
+      }
+    }
+  },
+  {
+    "shift": "118",
+    "name": "Powers, Helen",
+    "wkly_hrs": "35",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "0900-1630",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "0900",
+        "end": "1630"
+      },
+      "Thur": {
+        "time": "0900-1630",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0900",
+        "end": "1630"
+      },
+      "Fri": {
+        "time": "0900-1630",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "0900",
+        "end": "1630"
+      },
+      "Sat": {
+        "time": "0900-1630",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "0900",
+        "end": "1630"
+      },
+      "Sun": {
+        "time": "0900-1630",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "0900",
+        "end": "1630"
+      }
+    }
+  },
+  {
+    "shift": "119",
+    "name": "Gonzalez, Christina",
+    "wkly_hrs": "35",
+    "days": {
+      "Mon": {
+        "time": "0900-1630",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "0900",
+        "end": "1630"
+      },
+      "Tue": {
+        "time": "0900-1630",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "0900",
+        "end": "1630"
+      },
+      "Wed": {
+        "time": "1000-1730",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1000",
+        "end": "1730"
+      },
+      "Thur": {
+        "time": "1000-1730",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "1000",
+        "end": "1730"
+      },
+      "Fri": {
+        "time": "1000-1730",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "1000",
+        "end": "1730"
+      },
+      "Sat": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "120",
+    "name": "Moller, Baraat",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "1000-1830",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "1000",
+        "end": "1830"
+      },
+      "Tue": {
+        "time": "1000-1830",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1000",
+        "end": "1830"
+      },
+      "Wed": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "1000-1830",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "1000",
+        "end": "1830"
+      },
+      "Sun": {
+        "time": "1000-1830",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1000",
+        "end": "1830"
+      }
+    }
+  },
+  {
+    "shift": "121",
+    "name": "Dieguez, Cristobal",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "1100-1930",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1100",
+        "end": "1930"
+      },
+      "Tue": {
+        "time": "1100-1930",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1100",
+        "end": "1930"
+      },
+      "Wed": {
+        "time": "1100-1930",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "1100",
+        "end": "1930"
+      },
+      "Thur": {
+        "time": "1100-1930",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "1100",
+        "end": "1930"
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "122",
+    "name": "Harris, Clarence",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "1200-2030",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "1200",
+        "end": "2030"
+      },
+      "Thur": {
+        "time": "1200-2030",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1200",
+        "end": "2030"
+      },
+      "Fri": {
+        "time": "1100-1930",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1100",
+        "end": "1930"
+      },
+      "Sat": {
+        "time": "1100-1930",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "1100",
+        "end": "1930"
+      },
+      "Sun": {
+        "time": "1100-1930",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "1100",
+        "end": "1930"
+      }
+    }
+  },
+  {
+    "shift": "123",
+    "name": "",
+    "wkly_hrs": "33",
+    "days": {
+      "Mon": {
+        "time": "1200-1830",
+        "hrs": "6",
+        "lot": "BP LOT",
+        "start": "1200",
+        "end": "1830"
+      },
+      "Tue": {
+        "time": "1200-1830",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "1200",
+        "end": "1830"
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "1200-1830",
+        "hrs": "6",
+        "lot": "BP LOT",
+        "start": "1200",
+        "end": "1830"
+      },
+      "Sat": {
+        "time": "1200-2030",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "1200",
+        "end": "2030"
+      },
+      "Sun": {
+        "time": "1200-1930",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1200",
+        "end": "1930"
+      }
+    }
+  },
+  {
+    "shift": "124",
+    "name": "Theus, Tieran",
+    "wkly_hrs": "34",
+    "days": {
+      "Mon": {
+        "time": "1300-2030",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "1300",
+        "end": "2030"
+      },
+      "Tue": {
+        "time": "1300-2030",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "1300",
+        "end": "2030"
+      },
+      "Wed": {
+        "time": "1300-2030",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1300",
+        "end": "2030"
+      },
+      "Thur": {
+        "time": "1300-2030",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "1300",
+        "end": "2030"
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "1300-01930",
+        "hrs": "6",
+        "lot": "BP LOT",
+        "start": "1300",
+        "end": "01930"
+      }
+    }
+  },
+  {
+    "shift": "125",
+    "name": "Tejeda, Jose",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "1400-2230",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "1400",
+        "end": "2230"
+      },
+      "Tue": {
+        "time": "1400-2230",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "1400",
+        "end": "2230"
+      },
+      "Wed": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "1300-2130",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "1300",
+        "end": "2130"
+      },
+      "Sat": {
+        "time": "1300-2130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1300",
+        "end": "2130"
+      },
+      "Sun": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "126",
+    "name": "Orrego, Tito",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "1400-2230",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1400",
+        "end": "2230"
+      },
+      "Thur": {
+        "time": "1400-2230",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1400",
+        "end": "2230"
+      },
+      "Fri": {
+        "time": "1400-2230",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1400",
+        "end": "2230"
+      },
+      "Sat": {
+        "time": "1400-2230",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1400",
+        "end": "2230"
+      },
+      "Sun": {
+        "time": "1400-2230",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1400",
+        "end": "2230"
+      }
+    }
+  },
+  {
+    "shift": "127",
+    "name": "",
+    "wkly_hrs": "20",
+    "days": {
+      "Mon": {
+        "time": "1600-2000",
+        "hrs": "4",
+        "lot": "EAST LOT",
+        "start": "1600",
+        "end": "2000"
+      },
+      "Tue": {
+        "time": "1600-2000",
+        "hrs": "4",
+        "lot": "EAST LOT",
+        "start": "1600",
+        "end": "2000"
+      },
+      "Wed": {
+        "time": "1600-2000",
+        "hrs": "4",
+        "lot": "EAST LOT",
+        "start": "1600",
+        "end": "2000"
+      },
+      "Thur": {
+        "time": "1600-2000",
+        "hrs": "4",
+        "lot": "EAST LOT",
+        "start": "1600",
+        "end": "2000"
+      },
+      "Fri": {
+        "time": "1600-2000",
+        "hrs": "4",
+        "lot": "EAST LOT",
+        "start": "1600",
+        "end": "2000"
+      },
+      "Sat": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "128",
+    "name": "Green, Darnell",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "1700-0130",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "1700",
+        "end": "0130"
+      },
+      "Tue": {
+        "time": "1700-2300",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "1700",
+        "end": "2300"
+      },
+      "Wed": {
+        "time": "1700-0130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1700",
+        "end": "0130"
+      },
+      "Thur": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "1600-2100",
+        "hrs": "5",
+        "lot": "EAST LOT",
+        "start": "1600",
+        "end": "2100"
+      },
+      "Sun": {
+        "time": "1600-2100",
+        "hrs": "5",
+        "lot": "EAST LOT",
+        "start": "1600",
+        "end": "2100"
+      }
+    }
+  },
+  {
+    "shift": "129",
+    "name": "",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "1700-0130",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "1700",
+        "end": "0130"
+      },
+      "Fri": {
+        "time": "1700-0130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1700",
+        "end": "0130"
+      },
+      "Sat": {
+        "time": "1700-0130",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1700",
+        "end": "0130"
+      },
+      "Sun": {
+        "time": "1700-0130",
+        "hrs": "8",
+        "lot": "BREAKER",
+        "start": "1700",
+        "end": "0130"
+      }
+    }
+  },
+  {
+    "shift": "130",
+    "name": "",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "1800-2300",
+        "hrs": "5",
+        "lot": "EAST LOT",
+        "start": "1800",
+        "end": "2300"
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "1800-0030",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "1800",
+        "end": "0030"
+      },
+      "Fri": {
+        "time": "1800-0130",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "1800",
+        "end": "0130"
+      },
+      "Sat": {
+        "time": "1800-0130",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "1800",
+        "end": "0130"
+      },
+      "Sun": {
+        "time": "1800-0130",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1800",
+        "end": "0130"
+      }
+    }
+  },
+  {
+    "shift": "131",
+    "name": "Spenser, Purshane",
+    "wkly_hrs": "33",
+    "days": {
+      "Mon": {
+        "time": "1900-0130",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "1900",
+        "end": "0130"
+      },
+      "Tue": {
+        "time": "1900-0230",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "1900",
+        "end": "0230"
+      },
+      "Wed": {
+        "time": "1800-0130",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1800",
+        "end": "0130"
+      },
+      "Thur": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "1900-0230",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "1900",
+        "end": "0230"
+      },
+      "Sun": {
+        "time": "1900-0130",
+        "hrs": "6",
+        "lot": "BP LOT",
+        "start": "1900",
+        "end": "0130"
+      }
+    }
+  },
+  {
+    "shift": "132",
+    "name": "Brown, Petrena",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "2000-0430",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2000",
+        "end": "0430"
+      },
+      "Tue": {
+        "time": "2000-0430",
+        "hrs": "8",
+        "lot": "BREAKER",
+        "start": "2000",
+        "end": "0430"
+      },
+      "Wed": {
+        "time": "2000-0430",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2000",
+        "end": "0430"
+      },
+      "Thur": {
+        "time": "1900-0330",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1900",
+        "end": "0330"
+      },
+      "Fri": {
+        "time": "1900-0330",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1900",
+        "end": "0330"
+      },
+      "Sat": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "133",
+    "name": "Davis, Tonya",
+    "wkly_hrs": "35",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "1900-0230",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "1900",
+        "end": "0230"
+      },
+      "Thur": {
+        "time": "2000-0330",
+        "hrs": "7",
+        "lot": "BREAKER",
+        "start": "2000",
+        "end": "0330"
+      },
+      "Fri": {
+        "time": "2000-0330",
+        "hrs": "7",
+        "lot": "BREAKER",
+        "start": "2000",
+        "end": "0330"
+      },
+      "Sat": {
+        "time": "2000-0330",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "2000",
+        "end": "0330"
+      },
+      "Sun": {
+        "time": "2000-0330",
+        "hrs": "7",
+        "lot": "EAST LOT",
+        "start": "2000",
+        "end": "0330"
+      }
+    }
+  },
+  {
+    "shift": "134",
+    "name": "Grantham, Bryan",
+    "wkly_hrs": "40",
+    "days": {
+      "Mon": {
+        "time": "2100-0530",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2100",
+        "end": "0530"
+      },
+      "Tue": {
+        "time": "2100-0530",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "2100",
+        "end": "0530"
+      },
+      "Wed": {
+        "time": "2100-0530",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2100",
+        "end": "0530"
+      },
+      "Thur": {
+        "time": "2100-0530",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "2100",
+        "end": "0530"
+      },
+      "Fri": {
+        "time": "2100-0530",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "2100",
+        "end": "0530"
+      },
+      "Sat": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "135",
+    "name": "Adams, Lashonda",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "2200-0300",
+        "hrs": "5",
+        "lot": "EAST LOT",
+        "start": "2200",
+        "end": "0300"
+      },
+      "Tue": {
+        "time": "2200-0430",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "2200",
+        "end": "0430"
+      },
+      "Wed": {
+        "time": "2200-0430",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "2200",
+        "end": "0430"
+      },
+      "Thur": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "2100-0530",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "2100",
+        "end": "0530"
+      },
+      "Sun": {
+        "time": "2100-0530",
+        "hrs": "7",
+        "lot": "BP LOT",
+        "start": "2100",
+        "end": "0530"
+      }
+    }
+  },
+  {
+    "shift": "136",
+    "name": "",
+    "wkly_hrs": "20",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "2200-0330",
+        "hrs": "5",
+        "lot": "BREAKER",
+        "start": "2200",
+        "end": "0330"
+      },
+      "Fri": {
+        "time": "2200-0330",
+        "hrs": "5",
+        "lot": "EAST LOT",
+        "start": "2200",
+        "end": "0330"
+      },
+      "Sat": {
+        "time": "2200-0330",
+        "hrs": "5",
+        "lot": "EAST LOT",
+        "start": "2200",
+        "end": "0330"
+      },
+      "Sun": {
+        "time": "2200-0330",
+        "hrs": "5",
+        "lot": "EAST LOT",
+        "start": "2200",
+        "end": "0330"
+      }
+    }
+  },
+  {
+    "shift": "137",
+    "name": "",
+    "wkly_hrs": "12",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "0300-0700",
+        "hrs": "4",
+        "lot": "BREAKER",
+        "start": "0300",
+        "end": "0700"
+      },
+      "Thur": {
+        "time": "0300-0700",
+        "hrs": "4",
+        "lot": "WEST LOT",
+        "start": "0300",
+        "end": "0700"
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "0300-0700",
+        "hrs": "4",
+        "lot": "BREAKER",
+        "start": "0300",
+        "end": "0700"
+      }
+    }
+  },
+  {
+    "shift": "138",
+    "name": "Avery, Tracey",
+    "wkly_hrs": "20",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "1100-1600",
+        "hrs": "5",
+        "lot": "BP LOT",
+        "start": "1100",
+        "end": "1600"
+      },
+      "Wed": {
+        "time": "1100-1600",
+        "hrs": "5",
+        "lot": "BP LOT",
+        "start": "1100",
+        "end": "1600"
+      },
+      "Thur": {
+        "time": "1100-1600",
+        "hrs": "5",
+        "lot": "BP LOT",
+        "start": "1100",
+        "end": "1600"
+      },
+      "Fri": {
+        "time": "1100-1600",
+        "hrs": "5",
+        "lot": "BP LOT",
+        "start": "1100",
+        "end": "1600"
+      },
+      "Sat": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sun": {
+        "time": "OFF",
+        "hrs": "0",
+        "lot": "OFF",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "139",
+    "name": "",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "1400-2030",
+        "hrs": "6",
+        "lot": "BP LOT",
+        "start": "1400",
+        "end": "2030"
+      },
+      "Thur": {
+        "time": "1400-2030",
+        "hrs": "6",
+        "lot": "BP LOT",
+        "start": "1400",
+        "end": "2030"
+      },
+      "Fri": {
+        "time": "1400-2000",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "1400",
+        "end": "2000"
+      },
+      "Sat": {
+        "time": "1400-2030",
+        "hrs": "6",
+        "lot": "BP LOT",
+        "start": "1400",
+        "end": "2030"
+      },
+      "Sun": {
+        "time": "1400-2230",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1400",
+        "end": "2230"
+      }
+    }
+  },
+  {
+    "shift": "140",
+    "name": "",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "1500-2330",
+        "hrs": "8",
+        "lot": "BREAKER",
+        "start": "1500",
+        "end": "2330"
+      },
+      "Thur": {
+        "time": "1500-2330",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1500",
+        "end": "2330"
+      },
+      "Fri": {
+        "time": "1500-1900",
+        "hrs": "4",
+        "lot": "CBC",
+        "start": "1500",
+        "end": "1900"
+      },
+      "Sat": {
+        "time": "1600-0030",
+        "hrs": "8",
+        "lot": "BP LOT",
+        "start": "1600",
+        "end": "0030"
+      },
+      "Sun": {
+        "time": "1500-1900",
+        "hrs": "4",
+        "lot": "BP LOT",
+        "start": "1500",
+        "end": "1900"
+      }
+    }
+  },
+  {
+    "shift": "141",
+    "name": "",
+    "wkly_hrs": "20",
+    "days": {
+      "Mon": {
+        "time": "2100-0100",
+        "hrs": "4",
+        "lot": "BP LOT",
+        "start": "2100",
+        "end": "0100"
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "2100-0100",
+        "hrs": "4",
+        "lot": "BREAKER",
+        "start": "2100",
+        "end": "0100"
+      },
+      "Fri": {
+        "time": "2100-0100",
+        "hrs": "4",
+        "lot": "BREAKER",
+        "start": "2100",
+        "end": "0100"
+      },
+      "Sat": {
+        "time": "2100-0100",
+        "hrs": "4",
+        "lot": "BREAKER",
+        "start": "2100",
+        "end": "0100"
+      },
+      "Sun": {
+        "time": "2100-0100",
+        "hrs": "4",
+        "lot": "EAST LOT",
+        "start": "2100",
+        "end": "0100"
+      }
+    }
+  },
+  {
+    "shift": "142",
+    "name": "",
+    "wkly_hrs": "32",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "1800-0030",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "1800",
+        "end": "0030"
+      },
+      "Thur": {
+        "time": "1800-0030",
+        "hrs": "6",
+        "lot": "BP LOT",
+        "start": "1800",
+        "end": "0030"
+      },
+      "Fri": {
+        "time": "1800-0030",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "1800",
+        "end": "0030"
+      },
+      "Sat": {
+        "time": "1800-0030",
+        "hrs": "6",
+        "lot": "WEST LOT",
+        "start": "1800",
+        "end": "0030"
+      },
+      "Sun": {
+        "time": "1800-0230",
+        "hrs": "8",
+        "lot": "BREAKER",
+        "start": "1800",
+        "end": "0230"
+      }
+    }
+  },
+  {
+    "shift": "143",
+    "name": "",
+    "wkly_hrs": "20",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "1800-0230",
+        "hrs": "8",
+        "lot": "EAST LOT",
+        "start": "1800",
+        "end": "0230"
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "2000-0000",
+        "hrs": "4",
+        "lot": "BP LOT",
+        "start": "2000",
+        "end": "0000"
+      },
+      "Sat": {
+        "time": "2000-0000",
+        "hrs": "4",
+        "lot": "BP LOT",
+        "start": "2000",
+        "end": "0000"
+      },
+      "Sun": {
+        "time": "2000-0000",
+        "hrs": "4",
+        "lot": "BREAKER",
+        "start": "2000",
+        "end": "0000"
+      }
+    }
+  },
+  {
+    "shift": "144",
+    "name": "",
+    "wkly_hrs": "20",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "2100-0100",
+        "hrs": "4",
+        "lot": "EAST LOT",
+        "start": "2100",
+        "end": "0100"
+      },
+      "Wed": {
+        "time": "2100-0100",
+        "hrs": "4",
+        "lot": "BREAKER",
+        "start": "2100",
+        "end": "0100"
+      },
+      "Thur": {
+        "time": "2100-0100",
+        "hrs": "4",
+        "lot": "EAST LOT",
+        "start": "2100",
+        "end": "0100"
+      },
+      "Fri": {
+        "time": "2100-0100",
+        "hrs": "4",
+        "lot": "BP LOT",
+        "start": "2100",
+        "end": "0100"
+      },
+      "Sat": {
+        "time": "2100-0100",
+        "hrs": "4",
+        "lot": "BP LOT",
+        "start": "2100",
+        "end": "0100"
+      },
+      "Sun": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      }
+    }
+  },
+  {
+    "shift": "145",
+    "name": "",
+    "wkly_hrs": "20",
+    "days": {
+      "Mon": {
+        "time": "0100-0500",
+        "hrs": "4",
+        "lot": "BREAKER",
+        "start": "0100",
+        "end": "0500"
+      },
+      "Tue": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Wed": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Thur": {
+        "time": "0100-0500",
+        "hrs": "4",
+        "lot": "BREAKER",
+        "start": "0100",
+        "end": "0500"
+      },
+      "Fri": {
+        "time": "0100-0500",
+        "hrs": "4",
+        "lot": "BREAKER",
+        "start": "0100",
+        "end": "0500"
+      },
+      "Sat": {
+        "time": "0100-0500",
+        "hrs": "4",
+        "lot": "EAST LOT",
+        "start": "0100",
+        "end": "0500"
+      },
+      "Sun": {
+        "time": "0100-0500",
+        "hrs": "4",
+        "lot": "EAST LOT",
+        "start": "0100",
+        "end": "0500"
+      }
+    }
+  },
+  {
+    "shift": "146",
+    "name": "",
+    "wkly_hrs": "20",
+    "days": {
+      "Mon": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Tue": {
+        "time": "0200-0600",
+        "hrs": "4",
+        "lot": "EAST LOT",
+        "start": "0200",
+        "end": "0600"
+      },
+      "Wed": {
+        "time": "0200-0600",
+        "hrs": "4",
+        "lot": "EAST LOT",
+        "start": "0200",
+        "end": "0600"
+      },
+      "Thur": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Fri": {
+        "time": "",
+        "hrs": "",
+        "lot": "",
+        "start": "",
+        "end": ""
+      },
+      "Sat": {
+        "time": "0300-0930",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "0300",
+        "end": "0930"
+      },
+      "Sun": {
+        "time": "0300-0930",
+        "hrs": "6",
+        "lot": "EAST LOT",
+        "start": "0300",
+        "end": "0930"
+      }
+    }
+  }
+]

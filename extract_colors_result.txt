@@ -1,0 +1,100 @@
+Consider using the pymupdf_layout package for a greatly improved page layout analysis.
+Total shifts extracted: 146
+
+Shift 1: Bush, Shayland
+  Sun: 0000-0830 (8hrs) -> EAST LOT
+  Mon: 0000-0830 (8hrs) -> BREAKER
+  Tue: 0000-0830 (8hrs) -> BREAKER
+  Wed: OFF (0hrs) -> OFF
+  Thur: OFF (0hrs) -> OFF
+  Fri: 0000-0830 (8hrs) -> BREAKER
+  Sat: 0000-0830 (8hrs) -> EAST LOT
+
+Shift 2: Wissar, Jacob
+  Sun: --
+  Mon: --
+  Tue: --
+  Wed: 00:00-0830 (8hrs) -> EAST LOT
+  Thur: 00:00-08:30 (8hrs) -> EAST LOT
+  Fri: 0100-0930 (8hrs) -> EAST LOT
+  Sat: 0100-0930 (8hrs) -> EAST LOT
+
+Shift 3: Quarles, Raymond
+  Sun: 0100-0930 (8hrs) -> EAST LOT
+  Mon: 0100-0930 (8hrs) -> BREAKER
+  Tue: 0100-090 (8hrs) -> EAST LOT
+  Wed: 0100-0930 (8hrs) -> EAST LOT
+  Thur: 0100-0930 (8hrs) -> EAST LOT
+  Fri: OFF (0hrs) -> OFF
+  Sat: OFF (0hrs) -> OFF
+
+Shift 4: Goodwin, Andre
+  Sun: --
+  Mon: 0200-0830 (6hrs) -> EAST LOT
+  Tue: 0200-0830 (6hrs) -> EAST LOT
+  Wed: 0200-0830 (6hrs) -> EAST LOT
+  Thur: 0200-0830 (6hrs) -> BREAKER
+  Fri: 0200-1030 (8hrs) -> EAST LOT
+  Sat: --
+
+Shift 5: Skinner, Talieya
+  Sun: 0200-1030 (8hrs) -> BREAKER
+  Mon: 0300-1130 (8hrs) -> EAST LOT
+  Tue: 0300-1130 (8hrs) -> EAST LOT
+  Wed: --
+  Thur: --
+  Fri: --
+  Sat: 0200-1030 (8hrs) -> EAST LOT
+
+
+=== LOT DISTRIBUTION ===
+
+Sun:
+  BP LOT: 12
+  BREAKER: 4
+  EAST LOT: 60
+  SOUTH LOT: 10
+  WEST LOT: 14
+
+Mon:
+  BP LOT: 11
+  BREAKER: 7
+  EAST LOT: 48
+  SOUTH LOT: 13
+  WEST LOT: 16
+
+Tue:
+  BP LOT: 9
+  BREAKER: 6
+  EAST LOT: 57
+  SOUTH LOT: 11
+  WEST LOT: 12
+
+Wed:
+  BP LOT: 7
+  BREAKER: 7
+  EAST LOT: 59
+  SOUTH LOT: 14
+  WEST LOT: 11
+
+Thur:
+  BP LOT: 12
+  BREAKER: 6
+  EAST LOT: 56
+  SOUTH LOT: 13
+  WEST LOT: 11
+
+Fri:
+  BP LOT: 13
+  BREAKER: 5
+  CBC: 1
+  EAST LOT: 61
+  SOUTH LOT: 8
+  WEST LOT: 10
+
+Sat:
+  BP LOT: 11
+  BREAKER: 2
+  EAST LOT: 62
+  SOUTH LOT: 12
+  WEST LOT: 12

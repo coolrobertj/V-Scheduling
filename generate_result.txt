@@ -1,0 +1,52 @@
+Named shifts: 117
+Creating Sunday sheet...
+  EAST LOT: 43 employees, 323.0 hrs
+  SOUTH LOT: 6 employees, 47.0 hrs
+  WEST LOT: 13 employees, 98.0 hrs
+  CBC: 0 employees, 0 hrs
+  BP LOT: 11 employees, 81.0 hrs
+  BREAKER: 1 employees, 8.0 hrs
+Creating Monday sheet...
+  EAST LOT: 44 employees, 323.0 hrs
+  SOUTH LOT: 11 employees, 83.0 hrs
+  WEST LOT: 13 employees, 93.0 hrs
+  CBC: 0 employees, 0 hrs
+  BP LOT: 8 employees, 58.0 hrs
+  BREAKER: 5 employees, 40.0 hrs
+Creating Tuesday sheet...
+  EAST LOT: 43 employees, 310.0 hrs
+  SOUTH LOT: 10 employees, 77.0 hrs
+  WEST LOT: 13 employees, 100.0 hrs
+  CBC: 1 employees, 7.0 hrs
+  BP LOT: 11 employees, 76.0 hrs
+  BREAKER: 5 employees, 40.0 hrs
+Creating Wednesday sheet...
+  EAST LOT: 47 employees, 347.0 hrs
+  SOUTH LOT: 11 employees, 86.0 hrs
+  WEST LOT: 14 employees, 95.0 hrs
+  CBC: 0 employees, 0 hrs
+  BP LOT: 8 employees, 57.0 hrs
+  BREAKER: 4 employees, 31.0 hrs
+Creating Thursday sheet...
+  EAST LOT: 43 employees, 327.0 hrs
+  SOUTH LOT: 13 employees, 96.0 hrs
+  WEST LOT: 10 employees, 67.0 hrs
+  CBC: 0 employees, 0 hrs
+  BP LOT: 10 employees, 70.0 hrs
+  BREAKER: 4 employees, 29.0 hrs
+Creating Friday sheet...
+  EAST LOT: 44 employees, 322.0 hrs
+  SOUTH LOT: 5 employees, 39.0 hrs
+  WEST LOT: 10 employees, 76.0 hrs
+  CBC: 0 employees, 0 hrs
+  BP LOT: 12 employees, 88.0 hrs
+  BREAKER: 5 employees, 37.0 hrs
+Creating Saturday sheet...
+  EAST LOT: 45 employees, 343.0 hrs
+  SOUTH LOT: 7 employees, 51.0 hrs
+  WEST LOT: 13 employees, 96.0 hrs
+  CBC: 0 employees, 0 hrs
+  BP LOT: 7 employees, 51.0 hrs
+  BREAKER: 1 employees, 8.0 hrs
+
+Saved to: Master Daily Schedule 2026.xlsx
